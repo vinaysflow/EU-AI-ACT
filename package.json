@@ -1,0 +1,25 @@
+{
+  "name": "eu-ai-act-tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "client",
+    "server",
+    "knowledge",
+    "scripts"
+  ],
+  "scripts": {
+    "dev:client": "npm run dev --workspace=client",
+    "dev:server": "npm run dev --workspace=server",
+    "dev": "concurrently \"npm run dev:client\" \"npm run dev:server\"",
+    "corpus:build": "node scripts/corpus-build.js",
+    "corpus:verify": "node scripts/corpus-verify.js",
+    "corpus:seed": "node scripts/supabase-seed.js",
+    "clauses:seed": "node scripts/seed-clauses.js",
+    "test:validate": "node scripts/validation-tests.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

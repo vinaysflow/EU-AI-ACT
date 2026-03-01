@@ -1,0 +1,4808 @@
+{
+  "corpusVersion": "2026-01",
+  "embeddingModel": "nomic-embed-text-v1.5",
+  "generatedAt": "2026-02-28T20:53:22.203Z",
+  "chunks": {
+    "aia_art1_1": {
+      "hash": "b0856df800173a134daa65347a1e2dca2b7cfe6ccdb5015cd57273e48f0a56a9",
+      "articleRef": "Article 1(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art1_2": {
+      "hash": "c5e126517d15d662c6fce6222374d84283cba20e279d8a7aadbd764f95ff4587",
+      "articleRef": "Article 1(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_1": {
+      "hash": "e9bf1c8cb754edcb9c1e9276d2033b2b517abcc0b928fdaf3770f228ffec2740",
+      "articleRef": "Article 2(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_2": {
+      "hash": "5a50cd84e36cf5749d2aa556245cf1bd8b224a2ac358b2c8cd0a95918d92800c",
+      "articleRef": "Article 2(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_3": {
+      "hash": "04ed1089a7b02b43fa0b758d146b4915c9498ab4954cf1413d30432119d00604",
+      "articleRef": "Article 2(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_4": {
+      "hash": "e61f0ece80345451bad3b71b20e4b40c76cf785550f339e74ed6a1d6cfa43fb5",
+      "articleRef": "Article 2(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_5": {
+      "hash": "030ab0bab706ac97518c29cfec53c75fad8fd62ba7b4b2c9468461640772a20f",
+      "articleRef": "Article 2(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_6": {
+      "hash": "d9cb3880c2bd276e3a995674b19e14eaec7897913035cc23e93e5e73260279d1",
+      "articleRef": "Article 2(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_7": {
+      "hash": "276282a0a9b3d715565aa48efebb3b7dc3bf9ba1eb1a4273c708358df010948e",
+      "articleRef": "Article 2(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_8": {
+      "hash": "26570fb362d8c1872e476ed529e0b21fb9da7ccbb6502805867bc9b7fa358285",
+      "articleRef": "Article 2(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_9": {
+      "hash": "3d2219768fc62854eab6375b5389d8e0c3e1918f9026fa0151c2293865a17ccd",
+      "articleRef": "Article 2(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_10": {
+      "hash": "dfe710665ca0ca4d44e64328e58136e41af455dd304fd9027acbc57c59c0bf79",
+      "articleRef": "Article 2(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_11": {
+      "hash": "49ed6fe9c5712f8bd9f245e7913703642a5d5b1057040fbc8d6e4e1b661dea39",
+      "articleRef": "Article 2(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art2_12": {
+      "hash": "fe7eb377617608d40b98320570dea458c20857bd6c4a7f34423956ab061dea14",
+      "articleRef": "Article 2(12)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_1": {
+      "hash": "fdac02f5c278191f11a19c76cfa5ec92b196ac94385d36d918056692944f135e",
+      "articleRef": "Article 3(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_2": {
+      "hash": "daf10ebe92a31a3152e8dfdc5e4e6891b948a4fb34e96a8cea1bd2ceb98d01e0",
+      "articleRef": "Article 3(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_3": {
+      "hash": "cbaba70f1c343b6a29db1909448440b4f18e43d7efd986a21755485aaf25410a",
+      "articleRef": "Article 3(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_4": {
+      "hash": "5d4dd9f2aa15fbcf860a1e0b2eb25ba2e6b6b3bfa70bd7e9091b17471bc00bca",
+      "articleRef": "Article 3(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_5": {
+      "hash": "21567a7646468d386892e78c4d721843a41d17f307be36eafc4767b4e35bea71",
+      "articleRef": "Article 3(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_6": {
+      "hash": "62043d3658028540e590923eb3b148d5626f384d1f7d9a2f1b6dc7d89f847417",
+      "articleRef": "Article 3(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_7": {
+      "hash": "d97c5be40b9a800bb3c89c86755ddd59f30799791438fe75d1b47a2e1bbbb460",
+      "articleRef": "Article 3(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_8": {
+      "hash": "1b8f9b21a111c69e04a17e760bda096d75be70b35bd57e815d20098bdd762730",
+      "articleRef": "Article 3(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_9": {
+      "hash": "78dfe741f133f1b465e5a077b616d0f5f29253fefa3e2c15040c22f1f632ff91",
+      "articleRef": "Article 3(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_10": {
+      "hash": "45c7f91102ed95a991eca4f45c8535f01e013b5eb2ddd6b931a09ef1456e0a2f",
+      "articleRef": "Article 3(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_11": {
+      "hash": "a10ebca4e751eab892a52bbff0e83965aafaa22bb8fffde7daa6218f99923d35",
+      "articleRef": "Article 3(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_12": {
+      "hash": "7417b976a042a550e6768d9bb90bc973de91ee2da3c931d6dc1d96111220f888",
+      "articleRef": "Article 3(12)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_13": {
+      "hash": "3a9184d905432aa43d120d20fedcace37b8983df48367dc1ab319d60885227d2",
+      "articleRef": "Article 3(13)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_14": {
+      "hash": "29b8ce7e4cf027296253d4e4945fb7c12722303c03aec50042b5e72ce743707f",
+      "articleRef": "Article 3(14)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_15": {
+      "hash": "1ea3c76c74145af341037b1c6ba3aff24de38bd3ff094e2d15b12cd6379c2193",
+      "articleRef": "Article 3(15)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_16": {
+      "hash": "d9f3ee4f7ada699602b95e3f9c99f0223b9cf0a1d635fbe65b62d20f551ef36b",
+      "articleRef": "Article 3(16)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_17": {
+      "hash": "fc8859b5e6c87f26eb138ed7a175f933ac9b540d2425452b3bc6b21b104beccb",
+      "articleRef": "Article 3(17)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_18": {
+      "hash": "24663f0363c38d58a1d326b506f947552797dc4823e1e53efec86414d0db63b4",
+      "articleRef": "Article 3(18)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_19": {
+      "hash": "7a7f938652338a99e96525664e21b961db34a65052cc4f7e820f67b9c04b1ce5",
+      "articleRef": "Article 3(19)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_20": {
+      "hash": "6d81b524dc61b796916056c82ce3cb372854f52e83767cefb51dea697cdbcaed",
+      "articleRef": "Article 3(20)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_21": {
+      "hash": "9564b237e5ff621d08f3a12bf009212de7acb7a6358386708e30c643eb400168",
+      "articleRef": "Article 3(21)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_22": {
+      "hash": "59dbca5a40ff21dd1cf84db92b3a465b8784e8c63ce0bbf56c468890c4812653",
+      "articleRef": "Article 3(22)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_23": {
+      "hash": "3f35c1f2d9c6a873194221fa98d31e94aaa740ceec7cd786bb60451ee1aa45c2",
+      "articleRef": "Article 3(23)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_24": {
+      "hash": "63871782d4de8b066c646b18b81d936a70a96d574f2c88507e3e22c3df5bb7be",
+      "articleRef": "Article 3(24)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_25": {
+      "hash": "4aa494f48511d7f09db2d126bc641b095e4b06165fb010aacb20e0d8bb57dcb5",
+      "articleRef": "Article 3(25)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_26": {
+      "hash": "893983b4eaa5b0ce47a2d934d3d4f15faf532f6b32c0141e5cf9cd5992c940a0",
+      "articleRef": "Article 3(26)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_27": {
+      "hash": "f3b31e996dcb80fb5b204f87f37cde0525080bec57b7782c6098ca8166a3a102",
+      "articleRef": "Article 3(27)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_28": {
+      "hash": "84161321b1b6193e5881105950ce91b2ca285bb7e8a18c8b5df1f738227212f9",
+      "articleRef": "Article 3(28)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_29": {
+      "hash": "c637a481e77fd9ce2bc4897838421a19654537a461b4175c3ad2a11c64b53dcd",
+      "articleRef": "Article 3(29)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_30": {
+      "hash": "7d6e3d360b5636220b8a210f49f61dbe5d562e42a43b05d9d8e13bb8095016f0",
+      "articleRef": "Article 3(30)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_31": {
+      "hash": "73d6802281f074997b53aee7bfc16ff26f965ccb6c596b47d91e58ec5431c78c",
+      "articleRef": "Article 3(31)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_32": {
+      "hash": "673aa007d9a38f81807c300a0e6b8b071b056f284787a6451be39266a0a4eb72",
+      "articleRef": "Article 3(32)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_33": {
+      "hash": "65f6a6d9927a72110c76345e4592775e14aa5fee3c308be2d9adc3907f9caad9",
+      "articleRef": "Article 3(33)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_34": {
+      "hash": "6a23b650a7af18f223a80f4d265644bdb3080869d2f981cfcb35f8c04fa62ace",
+      "articleRef": "Article 3(34)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_35": {
+      "hash": "19095992804481d4b713e0ecf6b3b29070fb82079ac220c0af9706bfd3f152be",
+      "articleRef": "Article 3(35)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_36": {
+      "hash": "272d51881c3689bb6ea1969a5135bb958c9ff6d9ea93475736a4d736fba14749",
+      "articleRef": "Article 3(36)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_37": {
+      "hash": "74f6ef8279a7a859587b072b2abab15b5ec74b6269a7d19f0c6f0555e1b3e37f",
+      "articleRef": "Article 3(37)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_38": {
+      "hash": "843b7bd0b4151494cdd17431788b0adf9feae201e6ddf3583a02aad86fd957b5",
+      "articleRef": "Article 3(38)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_39": {
+      "hash": "5b6377c9b682b826b1617902b3644601e6f904775c51eb38cbf0a8e8dba888ff",
+      "articleRef": "Article 3(39)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_40": {
+      "hash": "e58934c222eacda1b9f94af8e4ec16130f8be5f31fba7aea93996f3ae89f6d2b",
+      "articleRef": "Article 3(40)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_41": {
+      "hash": "b752095b25706f7c621d3647f7f8bcbe522b35f0b93dfda1e0728034df9a87f6",
+      "articleRef": "Article 3(41)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_42": {
+      "hash": "47b26ba2e95a336fcd12b86ef0494af77b5bf5f0a19eb89eaa05f49d9ca8991d",
+      "articleRef": "Article 3(42)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_43": {
+      "hash": "a79ad36699e261cb35e1bff1e00cc35425cf97ee06b5bfb0db1b420abeeaf3f4",
+      "articleRef": "Article 3(43)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_44": {
+      "hash": "0272d9c008f5b649f0e958af67b16072ab7e3e6eda9998b6c704815395241ca2",
+      "articleRef": "Article 3(44)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_45": {
+      "hash": "d92c9e4c8c96b4da03a080cf797c83b61daa4362ef0a34fe3dc1e696dbca1c6e",
+      "articleRef": "Article 3(45)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_46": {
+      "hash": "da6cd03832aeddc14d4142311f7dc2c7e6b8d9bdc422645e75ccdd6252a8c05b",
+      "articleRef": "Article 3(46)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_47": {
+      "hash": "c9b7d2271a099ac4bd74f92b785456bea2e1547404f0e0a3edd08c8733bc8e17",
+      "articleRef": "Article 3(47)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_48": {
+      "hash": "123ed1888c08fc7cdcbd1e28033ed257ce2adec3a523f16522e614d09d08ce5b",
+      "articleRef": "Article 3(48)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_49": {
+      "hash": "d1a62b2d4847fec3c224c4362fbc54ec86dd777ebf3327cb9a12c3ebe6e2e341",
+      "articleRef": "Article 3(49)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_50": {
+      "hash": "22dffdfb52c47573468efea48fd5a0978cb1d82c4c869ba132d4269eab5ae56c",
+      "articleRef": "Article 3(50)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_51": {
+      "hash": "4ce9b2633421aea0b13bdd5eb52e966d9c7e9fb1af486990789e100224dd0b72",
+      "articleRef": "Article 3(51)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_52": {
+      "hash": "53bea583cde9918607a02d78120960ee40ccb2835c0b5eb84f76834e3a7cd38e",
+      "articleRef": "Article 3(52)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_53": {
+      "hash": "1466d87709eda3b01f8edf1ec74bc801d49df0fd2bb17788b61ce4f870d4b7da",
+      "articleRef": "Article 3(53)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_54": {
+      "hash": "48eb02e397b05400ab8f5cc95ff6f9aa9b44fda0b9564620afe16a7d369cf314",
+      "articleRef": "Article 3(54)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_55": {
+      "hash": "3c9d388b34c202d3bd9115db0079b127529a599e2b6f6bc98627eb94fec92c86",
+      "articleRef": "Article 3(55)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_56": {
+      "hash": "18a4836730965221a74595ee491b1d85fa600b0b70d5074540d2e2b20554f13f",
+      "articleRef": "Article 3(56)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_57": {
+      "hash": "cb978b318d5f2c03f1aeba0aca39f94f9fa5fb7ea2d362f0c2debec06090b529",
+      "articleRef": "Article 3(57)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_58": {
+      "hash": "6b56d67435d31e8b9c3ef83cc52396ab89a9a06375ad47fa11e0e0874ad375a8",
+      "articleRef": "Article 3(58)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_59": {
+      "hash": "af7ca9a908684750089f69d86a54e73ffee969e74ada1d27684694d97505a0bb",
+      "articleRef": "Article 3(59)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_60": {
+      "hash": "c1c40e9dbedd05f918edd5de726592b7428454c55f5c6fe5931a27cdfc546cdd",
+      "articleRef": "Article 3(60)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_61": {
+      "hash": "17c7b6574bf0bcfdba554ae9b1f2825b9479186d6dc1528863311bb0fe70fe19",
+      "articleRef": "Article 3(61)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_62": {
+      "hash": "4fb0b25a5cf25f5a239529497039026332a1d559f3ded36f8ba446ce7ff9fe8b",
+      "articleRef": "Article 3(62)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_63": {
+      "hash": "fed25cf0bc96d14f0c6d7ecb4044675ccd7c8cd1e4dd146a395a916ee894ad3d",
+      "articleRef": "Article 3(63)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_64": {
+      "hash": "37920a18b8275ed4490a537ca34f19762d7fbd1055ae09ea7d652482cdb81adf",
+      "articleRef": "Article 3(64)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_65": {
+      "hash": "a2af58815c784fa97006247350ac686031fa19569d6e54ffd2fe9d797f5fe6e3",
+      "articleRef": "Article 3(65)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_66": {
+      "hash": "65c7b00fff1cdce671b79c620b5621cdd0c5fe14b0bb83da796e51451d5e4f6f",
+      "articleRef": "Article 3(66)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_67": {
+      "hash": "4d7c2d4047c2004dc0c96dcc93e0a86af294873f80b7fcdf2ee71007f2bc1643",
+      "articleRef": "Article 3(67)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art3_68": {
+      "hash": "a875bdd134a71cd0a2cbcdf042f211ffcd8e2e9e301a2d6d3d7540446b124429",
+      "articleRef": "Article 3(68)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art4": {
+      "hash": "e1820ea4d6d2f3c0a9ca6e9df6643203d6b080bea9f8216e12a3ad575714fcdf",
+      "articleRef": "Article 4",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_1": {
+      "hash": "6655e560df82f0741eca2f8666446a84543be263009237f415897aeabb888395",
+      "articleRef": "Article 5(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_2": {
+      "hash": "4575ff2f1eb93e348e6c00c85fb604358cd83c17c7a3f29cb97bd205a6f75fc1",
+      "articleRef": "Article 5(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_3": {
+      "hash": "e327079d5dc3e7c8e981109fcc1ced7b8b120479e8ca72666952a8fabdf05d46",
+      "articleRef": "Article 5(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_4": {
+      "hash": "213ce8cefde42b97b978b1ea11a23dfb03742861131860dc4772c9f4080eb3ea",
+      "articleRef": "Article 5(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_5": {
+      "hash": "8868fea7c96e52bd0bd7c4a86bff73533047c0efb158306e7f7677519c99ceb0",
+      "articleRef": "Article 5(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_6": {
+      "hash": "669d631e02cec230f8cc05404be88ad35a7d2adb341d5937e8d7692620dd6894",
+      "articleRef": "Article 5(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_7": {
+      "hash": "69e85225f7ef95ebeee10b482c6cedc42978ce96c0a41bab797a508e761d85ed",
+      "articleRef": "Article 5(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_8": {
+      "hash": "e58c8d94e5e1d976077c64ef7a9953b89eea03b78f6bd47777d050b039c7b0e2",
+      "articleRef": "Article 5(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_1": {
+      "hash": "0d2b5b2eeeda284ceed6dd5e7194ca398a868ec7c3f84f9dd71750cb39a70804",
+      "articleRef": "Article 6(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_2": {
+      "hash": "eeed91ee4bc59a1d5e45660ea081a5eb7886f569e2489504c8a0cddcb4e4b3d7",
+      "articleRef": "Article 6(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_3": {
+      "hash": "a2530b76c2f02abd92e8df1d9595625ed560ae52f1e492539460f202f882584a",
+      "articleRef": "Article 6(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_4": {
+      "hash": "51ce6d9ffc701ea01ff899f329c19c5733c7d99097165b10bb28bb532d24e67a",
+      "articleRef": "Article 6(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_5": {
+      "hash": "0ea6d6b47da7db207035b4326932f034864282743e4d2deccfdccd940d151774",
+      "articleRef": "Article 6(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_6": {
+      "hash": "987006acfe5d6aa147f67adf7b0c51670f42c6e30e14ccba58e33f06677dc047",
+      "articleRef": "Article 6(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_7": {
+      "hash": "88cfef482e25ee93c555cabb48876addd6efa060160d564b7a0fbcf53957137f",
+      "articleRef": "Article 6(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art6_8": {
+      "hash": "5195742df39dc65f80e499b2f340b2352bce761228c31a6c44284f32996e0cc4",
+      "articleRef": "Article 6(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art7_1": {
+      "hash": "91cf4cec96db38582540dd25b2efd93c5893df2b9a7f87e5e9d59132fb82fd9a",
+      "articleRef": "Article 7(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art7_2": {
+      "hash": "c46a519f394e2a9ca399fe76cb2047b285769aa4579280a8500abf09794e002e",
+      "articleRef": "Article 7(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art7_3": {
+      "hash": "bdc0f1aeaff2e805684db18833c62162d8456cc4a4f9536873c4e15dcb89279f",
+      "articleRef": "Article 7(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art8_1": {
+      "hash": "8067ab5fe3b72dc9fbf249d92135a04ddc3657653dd8f83c21607074982fa778",
+      "articleRef": "Article 8(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art8_2": {
+      "hash": "acc79a8fdb2bf7bbfda4fb81ead01edb28efeecc00af65780b5e85d4c3262a03",
+      "articleRef": "Article 8(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_1": {
+      "hash": "e6546581d2c9f47e16fad826f5caa2c7ea2d4b2c40d1c44b7ffecff38486ce68",
+      "articleRef": "Article 9(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_2": {
+      "hash": "d8176592d8300e3bd08334a1e52b638c923fcccf862e23a5de26fe88e71f76e7",
+      "articleRef": "Article 9(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_3": {
+      "hash": "0f85e7a58733ce7b3e328bb3579cc6e1310b5989ded80ae755d45269abe83dfc",
+      "articleRef": "Article 9(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_4": {
+      "hash": "5e2822891fedebc2b1e671872e598159ac175079e208038c05fb51b2ce68890a",
+      "articleRef": "Article 9(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_5": {
+      "hash": "bfe1fe1bd25fc05203fc5932f3bb85daf6d29c34fe5afd4857662c98751cb719",
+      "articleRef": "Article 9(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_6": {
+      "hash": "637203dd4dc96bc35c43f0d7deb97e8045692f1998f740f60ef932f6937053d5",
+      "articleRef": "Article 9(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_7": {
+      "hash": "5901685f07eb36fb3f0ee2873de8eb13bd595e1628769b5cc8ccb5eeb85e28fb",
+      "articleRef": "Article 9(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_8": {
+      "hash": "64e6dbc2b9368f37fa57abfc197c3e1e674c77c4b0ef3f0777390413f5a7f693",
+      "articleRef": "Article 9(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_9": {
+      "hash": "64c9044649b12fb3a37e6f03e9a917edec573968081bf59ef5fdf95f00ce1f71",
+      "articleRef": "Article 9(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art9_10": {
+      "hash": "3474e9dee69cb234696d542940e7ae4f2bf4a25e271305bc0cfe054b4ea40d04",
+      "articleRef": "Article 9(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art10_1": {
+      "hash": "30e33882b30061252142e0f5362189fe31dba2d24f5f594078b643e04cf00a6f",
+      "articleRef": "Article 10(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art10_2": {
+      "hash": "16a0ce6a2dd2cb956aa23b87a1d6c83da8c7e5c0f69de88670c93fe51ae90851",
+      "articleRef": "Article 10(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art10_3": {
+      "hash": "73d03d4052901c612e3e2436a45e185c16bb263a9d708c940a64000e9e4aa1fc",
+      "articleRef": "Article 10(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art10_4": {
+      "hash": "91ca6102abd3e99e8e5898b5e00e0166f66ca8f8fdd9285f887b6e8eb959f73f",
+      "articleRef": "Article 10(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art10_5": {
+      "hash": "bcf20b725866502418196edeb3532c1e37d118da8d7ec3378585db018d9b490f",
+      "articleRef": "Article 10(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art10_6": {
+      "hash": "272fa7f06bee3a0791b2ac5e5a1be5977fa291f2502a6cdd5051eb043007a6bf",
+      "articleRef": "Article 10(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art11_1": {
+      "hash": "3ed1f3de9aabe9af19e5e9feec998d1f9e81839ae7edd814e5692e64c4b54a78",
+      "articleRef": "Article 11(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art11_2": {
+      "hash": "81edcfd99abb269ad47bd06c57110e79a96703ceeabe788cca74ed006228adb1",
+      "articleRef": "Article 11(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art11_3": {
+      "hash": "741fc93b6e18a8d3f1f42b379c90fb5ebfc851970b9e55c1bfe819b8d4e23ba6",
+      "articleRef": "Article 11(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art12_1": {
+      "hash": "3b036c82f5f3bc21b394e789842a99c2e5d882fd5d066ce0d17a480634f99c1d",
+      "articleRef": "Article 12(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art12_2": {
+      "hash": "f4eab92210ed92c54a590a4d249fe7538e3ea207305c60cabceeae6ade5e470c",
+      "articleRef": "Article 12(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art12_3": {
+      "hash": "233917f1b52878366a63521e65bec63644c87c9534b52e3a4ebd210b454fca52",
+      "articleRef": "Article 12(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art13_1": {
+      "hash": "7a49319ed2294e30bfda39298d7619333c97e5b56f2169b8eaacf82b7d1b8a0d",
+      "articleRef": "Article 13(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art13_2": {
+      "hash": "764d29294d1f4d2d209f3a231da7b7054f82452648a17cb107540a7b2ac52e03",
+      "articleRef": "Article 13(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art13_3": {
+      "hash": "b6cdf3f15c57bc40a685a873cb6f9625a8a08ea3814b9b0ea1a26255d3ee6ae7",
+      "articleRef": "Article 13(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art14_1": {
+      "hash": "7265fbad4fa5071a90aa73a37339c3b8dec6283f15ca13efe8d8f17b72b8fa17",
+      "articleRef": "Article 14(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art14_2": {
+      "hash": "b4451d837589af8e2b3940271b508ce4d1cdf169d7654102139d85af36d05b89",
+      "articleRef": "Article 14(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art14_3": {
+      "hash": "cc41417c6ad125bb9a954c4fc2fe1afe88a82061221a55efc7f9b93909968b78",
+      "articleRef": "Article 14(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art14_4": {
+      "hash": "401fd1a36613c6db03452c224bc698d9685263d8832510975d8afe8dd5935d8f",
+      "articleRef": "Article 14(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art14_5": {
+      "hash": "bd520291b6c4abe37152e07db3cca599d2d24ceaa5990a5ea118041d8a6b9775",
+      "articleRef": "Article 14(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art15_1": {
+      "hash": "d562a5bdfb8936f79f194a5e8229ab9ece32b7d7f6eea32509bee78675eb48a6",
+      "articleRef": "Article 15(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art15_2": {
+      "hash": "9e623b36874446c6a3507ca956699394adf4b282ea5c1ee2b35db74f7edff61d",
+      "articleRef": "Article 15(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art15_3": {
+      "hash": "61ad458ce938b590860d1af860b9faa40434db902fbc4c9181bb300c036a9b48",
+      "articleRef": "Article 15(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art15_4": {
+      "hash": "5d0b4236c387ba8a112ec0174bc75e79fa87315f538f405a820aefc1ea695907",
+      "articleRef": "Article 15(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art15_5": {
+      "hash": "756e3b15daf1fd7ea89ae9ef7664c7b660f715d4c13a755a32234049eab8eb53",
+      "articleRef": "Article 15(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art16": {
+      "hash": "dc4612bf9d154251d24ebb399c142a472701f1399e276952f9db5edbcefa49b5",
+      "articleRef": "Article 16",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art17_1": {
+      "hash": "9970301ca72a0f209a4743c48c62b78ee443c4aa31622a9d9a68374151ecb828",
+      "articleRef": "Article 17(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art17_2": {
+      "hash": "e0b63e110d81fcabf9eb01851f74ec009a33781b27b4699aa21ed24ef251f8e7",
+      "articleRef": "Article 17(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art17_3": {
+      "hash": "7f71efcdd0697bd8efd85bb0c22f37fec058f9301a4dd6ab03cea04552eb9749",
+      "articleRef": "Article 17(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art17_4": {
+      "hash": "2f5c73c61ee916aaf27cb62449bea4f1a17e94d9367f2121ada6b646c4a30557",
+      "articleRef": "Article 17(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art18_1": {
+      "hash": "557789e1dca4902b9c4a11614bef993fbe9805e08d3094bdc4d337985c0fbd5e",
+      "articleRef": "Article 18(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art18_2": {
+      "hash": "1ec6a6620b063965c10369bf1b123fd577e306f46e35697c6e105578b76ad9bb",
+      "articleRef": "Article 18(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art18_3": {
+      "hash": "8238611957c928beb96995c3c085f13e43ee36bd71375cf5fa5fdd9c9a26236a",
+      "articleRef": "Article 18(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art19_1": {
+      "hash": "8f1cddb18e6238700fbdccc742e5c013202053f6445ee00848429398724c9834",
+      "articleRef": "Article 19(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art19_2": {
+      "hash": "783c1e83f4824ef1773dd5fcc4bfbe6bb8cd456ada6f6d07ed9cbdae52c5afb3",
+      "articleRef": "Article 19(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art20_1": {
+      "hash": "e798502016f7006924e59e850eab2a3377d138480109d277e55426a2ab12484d",
+      "articleRef": "Article 20(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art20_2": {
+      "hash": "4edb43230af394a216be91b82072a674369a3156ed90e49db1d6d54b74856207",
+      "articleRef": "Article 20(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art21_1": {
+      "hash": "2be68f46a2d7ebe6b9bcfd213a478ec9d2ed9043dcd95fa9d95ba00175ac1d72",
+      "articleRef": "Article 21(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art21_2": {
+      "hash": "74ef27a7f8dd7a0bf94996f6dd72d69e8a0eb7dc7205b74aec878e05ab58db89",
+      "articleRef": "Article 21(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art21_3": {
+      "hash": "6f4f1a0bf49a5b4355316f898399b37bcc07aae650710e6f16ef6389659a9a2b",
+      "articleRef": "Article 21(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art22_1": {
+      "hash": "c5c2d0550c8f9118a5d3dfb714c640df46a0887791d884cb561796ac6f655129",
+      "articleRef": "Article 22(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art22_2": {
+      "hash": "d037c7d53ba0a20c61ed5cf8df7dffd60255aef58066c50713d19d86bd8f1122",
+      "articleRef": "Article 22(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art22_3": {
+      "hash": "034867323db7779d8f2433504e422e3b9a4c8d6ad2410cf407c9f436e1fdb951",
+      "articleRef": "Article 22(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art22_4": {
+      "hash": "d8811da925cf549c9143a48618b7a694207c8cbf0735d975ea0d9eb75dde364c",
+      "articleRef": "Article 22(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art23_1": {
+      "hash": "bc2aa22626ff3bc5d23081d62e51a7f99dcadbe45a42101e44352696b3ea6a06",
+      "articleRef": "Article 23(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art23_2": {
+      "hash": "27bb581c8d3f3c7cc2badfe3cb11bbd6da68e2a5960a61dc7be5ffbeae47c3d0",
+      "articleRef": "Article 23(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art23_3": {
+      "hash": "8dbfdea28c59022aa540e995b059cccf39debc4f16b90255fa23d1ee118ef0e4",
+      "articleRef": "Article 23(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art23_4": {
+      "hash": "cf2bdcd3c01a128d68a9bb704702441da821867432d42a8c16e5970cf4b913e5",
+      "articleRef": "Article 23(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art23_5": {
+      "hash": "6d18cbf2fe6a8a53c4e09f7ae7b1dfd967bf15646d8b06554000578de84f94b6",
+      "articleRef": "Article 23(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art23_6": {
+      "hash": "5bba08e1a9bf407f37ee6dd899518d2a11689d85ea2f97478be54d876057a88e",
+      "articleRef": "Article 23(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art23_7": {
+      "hash": "7ed9014f2a019ba82db1aefd1796f53586be2a48883d0b4d5f0ba3c32d9aa19e",
+      "articleRef": "Article 23(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art24_1": {
+      "hash": "0753c0dc67f886ed68b97c2bd9acd1c99f287f1be93311871343e8d23a6c76d0",
+      "articleRef": "Article 24(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art24_2": {
+      "hash": "8bc423d3fe54e7a85c637c8db393a695a1721e96261a9e9f75f4168dd8ad7a53",
+      "articleRef": "Article 24(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art24_3": {
+      "hash": "cfb76777b35af556e50f552579463c1b4ac55b32989c86073c1f581b48e8c88d",
+      "articleRef": "Article 24(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art24_4": {
+      "hash": "166094e42c20c646e1208f61076a576f0fa9628896be4ed709b2c85d30210bf0",
+      "articleRef": "Article 24(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art24_5": {
+      "hash": "3f65fa081cb7eceb6f2ebee6a03bcc6653c967dd1e44535405124a1c7d649e9e",
+      "articleRef": "Article 24(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art24_6": {
+      "hash": "6f03c3273ab34386018e885bbed322e625cd8a3ebce936df36e71d2798bd34e1",
+      "articleRef": "Article 24(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art25_1": {
+      "hash": "b60d9670757fba42ce6e71fea354219058d81464dcaae4ee48532f5c092c5bf3",
+      "articleRef": "Article 25(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art25_2": {
+      "hash": "02763436908f97b48e5bb5d24fa8ae6a5c8c01286ae1490bb263eab668ef0a2d",
+      "articleRef": "Article 25(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art25_3": {
+      "hash": "8cc1ebf8d66d0ce5f05461707782df321e819b3fadbcbadba5b2be563b009765",
+      "articleRef": "Article 25(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art25_4": {
+      "hash": "6f5727db5837b2118fff1b850d3ce3e54e227c006c15344760e9d231200ddc53",
+      "articleRef": "Article 25(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art25_5": {
+      "hash": "252154a386ea0c7b09c1b0f5a4c4c67565183c7585a50721190cc8f9cc8510f0",
+      "articleRef": "Article 25(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_1": {
+      "hash": "1788fcbcb091cd4e03831e59a16712a22993f049ec760294bc4a090109867795",
+      "articleRef": "Article 26(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_2": {
+      "hash": "987e04e8a8d12b8b0e55df63692fd8e7c90ba20b6a75745fe15e6be86c21acfb",
+      "articleRef": "Article 26(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_3": {
+      "hash": "7443e37fe264159c637fb7e7f768721956f6e335993891e92195273c41c574f7",
+      "articleRef": "Article 26(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_4": {
+      "hash": "7f84902a6e893128d2e2c4ab0072816d0e1834d19827811cda9fcb22b0991a00",
+      "articleRef": "Article 26(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_5": {
+      "hash": "efe55551b5687a2b433a90a3672f0520a3239ba9c8b677a6d8102e7d78e94461",
+      "articleRef": "Article 26(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_6": {
+      "hash": "945af85b9edc7c36c1aa4c7646ed60c99fad1b9c86ee6e758166c0a478595eca",
+      "articleRef": "Article 26(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_7": {
+      "hash": "63b6dfd5c32978d2ca0d6dcab81d6f99f3613e1294f2e0d4cb75413eb0a30bc3",
+      "articleRef": "Article 26(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_8": {
+      "hash": "4db0ba5cdb3ae95a29d27fc05575b1cacba4a1f84804fa1ffc291438f2f91e14",
+      "articleRef": "Article 26(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_9": {
+      "hash": "803547f25a70ba9103eb26b2b2eb64f9d5192cebe3c729905fe20bfc0d0daaed",
+      "articleRef": "Article 26(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_10": {
+      "hash": "4706a0994dd4e70d72427acdc1a447a3c74843c441587af74f1eaa0bad20f5bc",
+      "articleRef": "Article 26(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_11": {
+      "hash": "a58d08b8127eecdb746f59f3fc774b384894a67641602cf7b19935e7b1e0c33d",
+      "articleRef": "Article 26(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art26_12": {
+      "hash": "3424989be5d5cac7caae92c32542650c6574580c7bbefb23f917b9e16eb9cfda",
+      "articleRef": "Article 26(12)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art27_1": {
+      "hash": "7172bbadeac5eb48a684326ea32f60a7070e56a96887794d26522170a38c6a16",
+      "articleRef": "Article 27(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art27_2": {
+      "hash": "b92fb50322d0a2a691f755d5fd0127e53d858dc0dc6fd96177adc9d67f8fa8b4",
+      "articleRef": "Article 27(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art27_3": {
+      "hash": "690ced4ddb9ac44407342ee440c2282042693259009cd1126b76380368e95bd3",
+      "articleRef": "Article 27(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art27_4": {
+      "hash": "efbfe8ca16f683904b91960b52241246b685eefae12664261069889872e1f893",
+      "articleRef": "Article 27(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art27_5": {
+      "hash": "54458c37b8183f08625eb554567240589e7ec40e0cb0a6e10a60f67572ce5add",
+      "articleRef": "Article 27(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art28_1": {
+      "hash": "7dc3259a6f2350536b3aafeed54baf7568bff85fded3238fa0f3fc44012fd6ba",
+      "articleRef": "Article 28(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art28_2": {
+      "hash": "e3be1c0b8c3d24eadb11ad2c7012683e9494be759df78d4e9273dc9e8b761047",
+      "articleRef": "Article 28(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art28_3": {
+      "hash": "924b41c1f00b0b446e652e4ac4d70b7c10efb656d1d0db9328e7c0000bbdfbe7",
+      "articleRef": "Article 28(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art28_4": {
+      "hash": "cac00efcb17724c462b3c07957341b0a26e3cc7ccffbf84cf218d2f12e4708d6",
+      "articleRef": "Article 28(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art28_5": {
+      "hash": "dc1ccbdd35cc5c4d669a7c717dd40d8be3a295b72e6baf2774acb6c7e6b03e2b",
+      "articleRef": "Article 28(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art28_6": {
+      "hash": "d62be80edbb5d08452866dd92289d94ef20f8d152ae79373e116e53df7b74609",
+      "articleRef": "Article 28(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art28_7": {
+      "hash": "05dfbea2d42c541b78977c2ad2e14d932e874597679deee47ff492cc0997b617",
+      "articleRef": "Article 28(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art29_1": {
+      "hash": "bca8500f4d2cfdbaa7cd399ba5f873714c57605fec924c992cf02cc74ab5abda",
+      "articleRef": "Article 29(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art29_2": {
+      "hash": "043ce6a3cc6a826228ac8909fca5057c85f55b92c20c0021674a950f370f0e9b",
+      "articleRef": "Article 29(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art29_3": {
+      "hash": "40e22d0465b79458632ba5a0a5faee753c59aca31cdaf93e667c3abcf9df61e2",
+      "articleRef": "Article 29(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art29_4": {
+      "hash": "a9fc24b643630b89e1ef403417844cbd44ee478bbdaca5d5149399a2a91d3cdb",
+      "articleRef": "Article 29(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art30_1": {
+      "hash": "8ff29cd877aa41fdbc9f19635a768fe30891e4311e65935a14e1a65509b0a856",
+      "articleRef": "Article 30(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art30_2": {
+      "hash": "154d61798e6f233c5fba92750d871080f02ded9ab0df6b9683571fcf7a12a54e",
+      "articleRef": "Article 30(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art30_3": {
+      "hash": "1768490ba3045f97f87581668cd8bc70a856a347f025d440ebccc30b03d543a5",
+      "articleRef": "Article 30(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art30_4": {
+      "hash": "3109f3af489dee44feb1b7c48b95f78b5f3ef86e14728b5f317f9ab68a6fce30",
+      "articleRef": "Article 30(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art30_5": {
+      "hash": "7d685971143f3340ca09c22ac6ebd8840bfb7f77c6988c9a8afc1a08945eb06d",
+      "articleRef": "Article 30(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_1": {
+      "hash": "61093ca482e1efc83b2a69ab1eddf9c6f4494e371aa69b74140ad71285bf07f2",
+      "articleRef": "Article 31(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_2": {
+      "hash": "232f2adf9ea2ae933b3b2e6ee0297821669c55e15351d77f233f8557a3ba2b1d",
+      "articleRef": "Article 31(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_3": {
+      "hash": "62a548317c521f49e81eb86e6e2db345d4aad45dc2253c3d07df720474121eb8",
+      "articleRef": "Article 31(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_4": {
+      "hash": "14441c08f11d4230326fb1d820118c6967b983324beba81327b0ef2d0706d814",
+      "articleRef": "Article 31(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_5": {
+      "hash": "0b9f68ba0556901b4b5c0f4f570abbfcaec8fb9110cdd9a8159abbd936363287",
+      "articleRef": "Article 31(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_6": {
+      "hash": "d2467c3f1dc6f9bc20accc44a3c50ade5398ffd5543c060e0972891a12dcc1b4",
+      "articleRef": "Article 31(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_7": {
+      "hash": "c837bb8547535f642718ae67355aa2fa9c975b188a278dc4311e1168c41ec97c",
+      "articleRef": "Article 31(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_8": {
+      "hash": "49dc53a70023de76e89fb2546edb0626165ffccea5db10677401d1b31206d722",
+      "articleRef": "Article 31(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_9": {
+      "hash": "005975fc052a359a451672c5dc60f50af76f0ac2291eb21a89b03035b1f1cbf9",
+      "articleRef": "Article 31(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_10": {
+      "hash": "2e05270de286eec0c4eeda91804b150e867a12ed4200711a51f3cc2ab56080bb",
+      "articleRef": "Article 31(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_11": {
+      "hash": "e7b354bdddb84c6e057176d4941c236f0de74734d09b4a861495fa4ed2964bb8",
+      "articleRef": "Article 31(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art31_12": {
+      "hash": "92c1335ee3f043871ec5560707ea7721d7a37d9d0a171e6689e3ff4dc602ab43",
+      "articleRef": "Article 31(12)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art32": {
+      "hash": "dd56a4ab3bcbe80796317f8339bab6cb0ce4c416161643cb65461a9b1ff8f3f8",
+      "articleRef": "Article 32",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art33_1": {
+      "hash": "862d97b2f83b15b9828a20110b7a1f27e8dd922624f14b0a6b8791228a6ac486",
+      "articleRef": "Article 33(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art33_2": {
+      "hash": "b18e304f82bc30f8e2cb1e819cc06fb9c7638055ffc35662cdd3b50df780406f",
+      "articleRef": "Article 33(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art33_3": {
+      "hash": "638af3291a7e767a8bcbee395cc05beb4546d14273c89246a3c8ee65164173d9",
+      "articleRef": "Article 33(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art33_4": {
+      "hash": "45bedd227475cf29a9e2cc48e175bebec7b812df79ebba9281d29a45ce0a8e6b",
+      "articleRef": "Article 33(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art34_1": {
+      "hash": "270695ecfd9223d718d9da4fb551ff71445b502a1264fa84cd9ae54b3c112152",
+      "articleRef": "Article 34(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art34_2": {
+      "hash": "52cb13d2f35b372ee4a1ec0168ff0d242bdf9aa252150b0360cb1228180c804b",
+      "articleRef": "Article 34(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art34_3": {
+      "hash": "4a91ceb4dbfb697db6a4663e65c2fd0067496e86b345705c7270ec9d4bc738f1",
+      "articleRef": "Article 34(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art35_1": {
+      "hash": "328214d8bf1964309a43a15623d6d61fe8b852d45d32dfa2812bbe3cd9e2df60",
+      "articleRef": "Article 35(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art35_2": {
+      "hash": "775c9d67c99017a340491f5dd17a3be341f0e61d03576c4ec20a9d4936990272",
+      "articleRef": "Article 35(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_1": {
+      "hash": "b7f8a8c8e5cf1e1fef9a8f6775e5cd34d4ffe21f60408aaab68616dccaa960ac",
+      "articleRef": "Article 36(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_2": {
+      "hash": "c4f33ff34b6323beed9a7aa1dcba4d875acec77195dc748316d47069e2198c4e",
+      "articleRef": "Article 36(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_3": {
+      "hash": "b8cd520611941f9dd48f7d6e3e4563ee1aef7351acd11d6c2524061a3ae80690",
+      "articleRef": "Article 36(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_4": {
+      "hash": "33137c49dc48d831e3cb4772011837658285eef88081c4fdb2c77c7fd169e814",
+      "articleRef": "Article 36(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_5": {
+      "hash": "9e4b90eba486f19ff3876f20a6c73e7237afb87507dd6c30c49ee0456c507b03",
+      "articleRef": "Article 36(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_6": {
+      "hash": "55857b8dc28f3aed48d989b94de6cfc16894d08cd767633fc0c5d7b8aead3d05",
+      "articleRef": "Article 36(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_7": {
+      "hash": "d4b1c1ce3b9fd18c1cd69b36b566747258f8a9c1fecc9aefde0f77c2fb2e5d2a",
+      "articleRef": "Article 36(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_8": {
+      "hash": "34d7bec6c909d5231557b5429a27f2731ec7721877c745560e0196e1549b1665",
+      "articleRef": "Article 36(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art36_9": {
+      "hash": "b0001e4f2aad885d052f72d012d1e1c7fe91104befe1472799222aabe6a5ae9a",
+      "articleRef": "Article 36(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art37_1": {
+      "hash": "1b928e6685d3cc610618126bbffd59172087ef1ac4333fc131f7e47c2d6d994a",
+      "articleRef": "Article 37(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art37_2": {
+      "hash": "568a3d48d0dd6b08dfbf8bb406310b1569e5076eb2026b00bdb76c7aae2663fd",
+      "articleRef": "Article 37(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art37_3": {
+      "hash": "38e922e4953dc1276ca5e35aa879eca243850a0ad29da6574ff5f87aae822b94",
+      "articleRef": "Article 37(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art37_4": {
+      "hash": "01441bc3d59931404fb8450a531048fb50463ad9af96be7849e0ef05fe1264f9",
+      "articleRef": "Article 37(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art38_1": {
+      "hash": "e7409bd5f94b8338da027c1e4e2da1a395a88db46f855be01b83689c51ff894c",
+      "articleRef": "Article 38(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art38_2": {
+      "hash": "f1af489949a297fef362c47a25ba57141b1fa275eea5ad6775cdea46463de6d0",
+      "articleRef": "Article 38(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art38_3": {
+      "hash": "ec26a14304df5cd774b5e6f0429b0711cd811fe804fb368bdac838b766f2423a",
+      "articleRef": "Article 38(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art39": {
+      "hash": "16e50ce264c7f0ad0e6039c713fdec2e1a0080ad331bc2c2ad1dd60105e06934",
+      "articleRef": "Article 39",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art40_1": {
+      "hash": "e5ef6a89fe5634c4388a29fa8f0f8e82db9e53815824875053b9c3d6c89b459f",
+      "articleRef": "Article 40(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art40_2": {
+      "hash": "11e0595f8696cfb70f7ab26bfb32e3b2d515d6c477e8e070ff274207c84a185a",
+      "articleRef": "Article 40(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art40_3": {
+      "hash": "08feb64ce1e834b643a108db1620854867f03482da070a2945a19b73ca77d435",
+      "articleRef": "Article 40(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art41_1": {
+      "hash": "6da741ad081fe3f21553a5219eccfd2d6d874ab4129070a2742a55d3ce404053",
+      "articleRef": "Article 41(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art41_2": {
+      "hash": "a97f44e50698c231ecb17da70f9b481220d5c3be3d9257e60a5b5b6bb8554a5b",
+      "articleRef": "Article 41(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art41_3": {
+      "hash": "f3f8c936b1f71ede656f9a15a8df866b5a24585bd90113857ef1fbbbf01aaca4",
+      "articleRef": "Article 41(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art41_4": {
+      "hash": "a36aae6835d0b2c6b3631a9a8970297f8c1dd1c74610f8856d4d89e9d59a722e",
+      "articleRef": "Article 41(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art41_5": {
+      "hash": "49e726b1fb5e0a888f818acd11f8665ac9f53f963b3a0c5518d1975cbfab1062",
+      "articleRef": "Article 41(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art41_6": {
+      "hash": "bd964b1c931aa58c6698d6ac4e67230a24eedc35530f936cd8f715fe59b83d25",
+      "articleRef": "Article 41(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art42_1": {
+      "hash": "d19726351e94e07b597b164b749757d1a81de9ce3458987ff2d1d084f0c6eabc",
+      "articleRef": "Article 42(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art42_2": {
+      "hash": "c262608e7602c3dcb9f84f7f9f0911512a37721a545dd9b0a17cc74215ff895f",
+      "articleRef": "Article 42(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art43_1": {
+      "hash": "449f8ac4ea71124ad094bc714c972cdb610ed636d9190ae6a90f98dc3e32bc6c",
+      "articleRef": "Article 43(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art43_2": {
+      "hash": "d7736338912e287bc9e3b178f6eee65c81314112fb621c76df2cf5a880b41c14",
+      "articleRef": "Article 43(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art43_3": {
+      "hash": "2572fe79b11749c018f4bd493d65059aeb57221b0a223bc799de5ff9a40e0ac7",
+      "articleRef": "Article 43(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art43_4": {
+      "hash": "d4a5b3e61ab0112dafdb251dc8733fc1aa9f6707273fda253f2870e1aa3fd354",
+      "articleRef": "Article 43(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art43_5": {
+      "hash": "5f97d8724891819f815d581aaf84a3333f3812c1a1ba1b5dcaf475f2bead5b5c",
+      "articleRef": "Article 43(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art43_6": {
+      "hash": "2e7692b3812fc5b8b35b54005d05a190105612e8c434f556186bca6795192cdd",
+      "articleRef": "Article 43(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art44_1": {
+      "hash": "8f8f988d2cbc317c027e5a3afd4034cffe49317bfcc8ce3e65ddf2b719684903",
+      "articleRef": "Article 44(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art44_2": {
+      "hash": "9d814b761d123808ad2dbbc03cdefe2845f5c19dc5a2e180a8092ffb3e321e81",
+      "articleRef": "Article 44(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art44_3": {
+      "hash": "c94b203c73ce5cc4d092d4c7e6e0155ae0f5daca6276f4deeb2f36b8e36df24c",
+      "articleRef": "Article 44(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art45_1": {
+      "hash": "080dd70a1b69caff421de4ceaf7f2cdab57f222ad9f02c15658fe0f117475555",
+      "articleRef": "Article 45(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art45_2": {
+      "hash": "402062e2bf21ba48eeb586916cf9ae8138ebd93d10dc0567000dc1aadf455e5b",
+      "articleRef": "Article 45(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art45_3": {
+      "hash": "941f8b42e87d8f5015a7b70ecbaa47252e9fdc910de51dd3608832d765199242",
+      "articleRef": "Article 45(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art45_4": {
+      "hash": "1119d54d9951b036ee9f7d362722243f6b29cdf9c5b06b48c1fdec6e7e18e1a2",
+      "articleRef": "Article 45(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art46_1": {
+      "hash": "4da9afa49eebfc847981ca9ca446df26527ed706983d26f661ce0ed5d530c466",
+      "articleRef": "Article 46(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art46_2": {
+      "hash": "cdd54b89571b3983d8dbf5b7f79ad936c351d9d285f0a474f5721b079bc5fde0",
+      "articleRef": "Article 46(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art46_3": {
+      "hash": "0d5c10c6057412e5389c5af2899f7fa25bbcaa3bae8c7367b817fe457b4c98cc",
+      "articleRef": "Article 46(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art46_4": {
+      "hash": "684ea18d8ccfee48cfeeec90ea1dbdb4f7137c445e7f6787098f6f1fd8ee4f84",
+      "articleRef": "Article 46(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art46_5": {
+      "hash": "f7fdd5a71074ce184e837e047f513573234744d442b2dfe6d2ebbbc172ce9d5e",
+      "articleRef": "Article 46(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art46_6": {
+      "hash": "0099320541494215caa49c227927335685966bcae0c09c3ea0dff08c94641a4a",
+      "articleRef": "Article 46(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art46_7": {
+      "hash": "651be63a898f78f2ab579294b46dbf4b85692d3fc47a5096c63a640328d8f80a",
+      "articleRef": "Article 46(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art47_1": {
+      "hash": "13deed9df3d7f2d50c6f5b4baa1c7cb12b43cc696c560ee8169dff0bca409d0b",
+      "articleRef": "Article 47(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art47_2": {
+      "hash": "e8e4641cb06d49282c8cf5a8678eb8e8d7b331c2bc14f93fadb513755e3772d7",
+      "articleRef": "Article 47(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art47_3": {
+      "hash": "d714de01cd9251ad963c04054e249fc1bfc8d22a8d15e6bd3c81ffdba5097d5e",
+      "articleRef": "Article 47(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art47_4": {
+      "hash": "fed5ac0c8811dfee52f0631502cc079ad0f96e51470be4df41c5c76f57a7a2f1",
+      "articleRef": "Article 47(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art47_5": {
+      "hash": "bbd0f4e9f10a9fa27f52925facf9e515047472c7e3c3064c2e5b51ccb173f2ab",
+      "articleRef": "Article 47(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art48_1": {
+      "hash": "93ac4e1e43e2b5db2e074fc81bd9cd748c546d2622033220b275469653903aa0",
+      "articleRef": "Article 48(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art48_2": {
+      "hash": "f348e67e6178e416ea06e02bbb2e12a6a116a0de31bc51252fe8ca393f1a8156",
+      "articleRef": "Article 48(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art48_3": {
+      "hash": "f536bade267fa358101d3d02cbb0d74395d6e8aab26d1b45429b76d88fc8ba49",
+      "articleRef": "Article 48(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art48_4": {
+      "hash": "605371bd095d7db4b4af5bcb6aa9eb4d4fe1abca443a5a598daba4f175ef7187",
+      "articleRef": "Article 48(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art48_5": {
+      "hash": "322d333e396ffc633531824f8c3a797f1736f0d992a0b3b841bbb0539e3402dd",
+      "articleRef": "Article 48(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art49_1": {
+      "hash": "4e2dfb774654e7e74489d450620acf5c0d146409c025341bbfa61f339838b201",
+      "articleRef": "Article 49(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art49_2": {
+      "hash": "ae0d9dca067aeadf5b9c81624466cfca36c86b499d02067e8843d2e897b5bb1d",
+      "articleRef": "Article 49(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art49_3": {
+      "hash": "cb96f52c42fa7be3e082460df59c15acfb1cb900384e1444e804c64121376d81",
+      "articleRef": "Article 49(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art49_4": {
+      "hash": "f593c2901f0eb30582dfeb2dbfc5a8c266d7215102ca6d3c5e04c5242a7b19df",
+      "articleRef": "Article 49(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art49_5": {
+      "hash": "4290fd98677afaae59170b09e62927b82a1f60ff207196a3ef625fd4a8c1f205",
+      "articleRef": "Article 49(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art50_1": {
+      "hash": "729120ab4a004e54c91a3b68d41697c877c59d0b64913e4327cf0bcfe793d8ea",
+      "articleRef": "Article 50(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art50_2": {
+      "hash": "8ccbcc4fd1ad4f3fd91be65631f8199521cd16336db9d3435bee4245ee6876d0",
+      "articleRef": "Article 50(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art50_3": {
+      "hash": "2b791d524de7ca1511504264e9e58d09cbd44024f99a2de56e907a5bf4db6002",
+      "articleRef": "Article 50(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art50_4": {
+      "hash": "24e75b91b844ddf00777e57e82390af77550be0adf1e5d400ecaf6096a7b9e0a",
+      "articleRef": "Article 50(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art50_5": {
+      "hash": "65fdb9d5b649190565c447f420ae1a011967f8534e993c54e9461308635b2441",
+      "articleRef": "Article 50(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art50_6": {
+      "hash": "4bd20e069dc7cbb19ece9acfe110c63521aa4255b9c6a6d079793bea90789555",
+      "articleRef": "Article 50(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art50_7": {
+      "hash": "2cf011e70a0095ca53627233cf5e46e7a6dd3711001f54d6149b4d83ef9e49bd",
+      "articleRef": "Article 50(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art51_1": {
+      "hash": "ce741a681b35af284301339f10b0eae85a9d81edbe8742dae2c02ad376bf6412",
+      "articleRef": "Article 51(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art51_2": {
+      "hash": "069ab5ba86193c9410aa38599e8629429b48c95e55cd9e1dc2a0d4555c394994",
+      "articleRef": "Article 51(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art51_3": {
+      "hash": "b7bcfd4515d35d1ade963851a2b81d50b6663bd6dc73e11a4f78850ae6a708cc",
+      "articleRef": "Article 51(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art52_1": {
+      "hash": "847ffe69bc256609d09b4a1ce227415edc16ec146c87e976e641c9c64ed9d341",
+      "articleRef": "Article 52(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art52_2": {
+      "hash": "f5b0fb6bf967fa4c221f433fe7c33c8f31a788ec17a6fc8525009491d6556356",
+      "articleRef": "Article 52(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art52_3": {
+      "hash": "ca1343ed2e17f7dda32a1924597b5838228fe11833e88540cc5ff9afc05f006b",
+      "articleRef": "Article 52(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art52_4": {
+      "hash": "99f0ea165ee360e570ea24073667c8bf7f953b170c3f1a61bff04fdb32696498",
+      "articleRef": "Article 52(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art52_5": {
+      "hash": "d78be35f6d849707a2bef202a84675e77fef8bc0045f79b03c133f3452b73c48",
+      "articleRef": "Article 52(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art52_6": {
+      "hash": "0607f66b1577bf6a1c4032cd8cb8a68c07dff67766e03e2915297a2f394eab4a",
+      "articleRef": "Article 52(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art53_1": {
+      "hash": "c5286cbea3794118e505a704cf95c17192b539e65e2d86380f6592618145baa7",
+      "articleRef": "Article 53(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art53_2": {
+      "hash": "8c4127ffa65bb220a1fb406687fb79b2ddf2a0cc80bfe26a1d061f949fd471e8",
+      "articleRef": "Article 53(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art53_3": {
+      "hash": "aa04419b357f3a921092f0d4aaef9055f64499b70eb5fb5d95d7585ebc5dfa44",
+      "articleRef": "Article 53(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art53_4": {
+      "hash": "b8b3275bc31394efb371aed38f0c05e921314f315d38d416e54f7d1560f1a452",
+      "articleRef": "Article 53(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art53_5": {
+      "hash": "200f035e6d7b108fb18321987d2162913cf02d20b9975176ad9bfa2a4046c200",
+      "articleRef": "Article 53(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art53_6": {
+      "hash": "8b2b4f91da9e35639c23864f5e9b1714da91a1831222216e143dc89a7c593713",
+      "articleRef": "Article 53(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art53_7": {
+      "hash": "19845f3ffebfb104c9b0480fd70f4a22a47d6fb3aa9b6a970046fc686368122f",
+      "articleRef": "Article 53(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art54_1": {
+      "hash": "31e442fb892b6483124fdc93d659cb74259d3073daa2e40506c76633ffc21d96",
+      "articleRef": "Article 54(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art54_2": {
+      "hash": "d037c7d53ba0a20c61ed5cf8df7dffd60255aef58066c50713d19d86bd8f1122",
+      "articleRef": "Article 54(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art54_3": {
+      "hash": "775bb175d404e3adffb4453f958337bd2477a15622c90365c3e1c8af44fe9ff6",
+      "articleRef": "Article 54(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art54_4": {
+      "hash": "a64a8df2347abbab4de8d6b6702814fa36793e30b55896d6c0d1f5a65f1c53e9",
+      "articleRef": "Article 54(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art54_5": {
+      "hash": "b4c1bf6329c220691bbb1411610509b1cb710507d453da2525ee9bbac24d5ba6",
+      "articleRef": "Article 54(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art54_6": {
+      "hash": "fdad262d105d0ddda3021ae7891ad243253b1cd16d3831fe55bab41727008e3b",
+      "articleRef": "Article 54(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art55_1": {
+      "hash": "aa54392b83345978d7c4b5d31c81251004724765e576b0bc143cb67f7472ffbb",
+      "articleRef": "Article 55(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art55_2": {
+      "hash": "d59860af76318a7ce5a65da7010da6bc3b19f2549437422a9533e15c840c84bb",
+      "articleRef": "Article 55(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art55_3": {
+      "hash": "b528e4e0aab35aee25e78e32dc37c046ea65ad58b98dff91adbe2186376e592e",
+      "articleRef": "Article 55(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_1": {
+      "hash": "0dbeb38238f1cf0b8c6de8eb5b315d6bf4a23d794437f10ca3bdf45ed1e54edb",
+      "articleRef": "Article 56(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_2": {
+      "hash": "fc50f1ce4c541694fbfb74706f366d16a444f210f59af81f491f977ca991755d",
+      "articleRef": "Article 56(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_3": {
+      "hash": "ea3450e986eec830db5b02c6397dadfecc2f14322ca77203457bfe016da15055",
+      "articleRef": "Article 56(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_4": {
+      "hash": "44c76f280055193c867836365076da46ef7d50a11242e83495cbdb3f5f799859",
+      "articleRef": "Article 56(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_5": {
+      "hash": "f5d52c0544d39a17c1dcc9007487f07731cd09256d8a019037c6c08c08037f01",
+      "articleRef": "Article 56(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_6": {
+      "hash": "d346884d5b89a115cb485bd7e6096710eace7f5dd2f73fe2c60868460209197f",
+      "articleRef": "Article 56(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_7": {
+      "hash": "736d51c33fe43d47b77091fee9450b5aa36acaed2f1485186236a4b4b70bd572",
+      "articleRef": "Article 56(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_8": {
+      "hash": "7b5fb1b5924c34ec26ba244247b93b2db5a5b85de3a8b48a4efb6c7484c9cad6",
+      "articleRef": "Article 56(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art56_9": {
+      "hash": "59947fe05f48c019734c1a175b8eda9731ae6cf3814445a1f17573779e18c2c7",
+      "articleRef": "Article 56(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_1": {
+      "hash": "6b22d542bff8a4118919fe4c1a459674b1a89e96a22c996e347a3279d291ff1b",
+      "articleRef": "Article 57(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_2": {
+      "hash": "e45ae1411d0c7bdbe557b31a0cdff229a069abcf07321e67acadc920fcd03403",
+      "articleRef": "Article 57(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_3": {
+      "hash": "bc39f178a0d177db65de97d0171e0f04a36c5a2eb600ff215b898f1843ad276b",
+      "articleRef": "Article 57(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_4": {
+      "hash": "a7a61ffdb15f149a60ef269a37e6dcc62c929f46e1170be3283acee4c4c55faa",
+      "articleRef": "Article 57(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_5": {
+      "hash": "9e4dafe4fc28538e8eef52962d0504950760bcef7ea451b1e062f6268beef51e",
+      "articleRef": "Article 57(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_6": {
+      "hash": "7b390e7d4401560e75553b040360eb8e0836bed838532f1952c939fde6ce1d10",
+      "articleRef": "Article 57(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_7": {
+      "hash": "0e48fc4b5a3dd8af58806827b679687c5618e195f50325e2085c3301132a49bd",
+      "articleRef": "Article 57(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_8": {
+      "hash": "525817ac0adbc17cf7f56c92cc4609495ec367a2f2b8b6fec5595f742669b30a",
+      "articleRef": "Article 57(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_9": {
+      "hash": "87c8486b6d121b0377476202f5e37c0df5e8155bf104802af2c6d2a13ca23a31",
+      "articleRef": "Article 57(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_10": {
+      "hash": "f446a2d45b526cdb24dfb69fc4eb66fde59c4a1ef16e3c047085d072296dc823",
+      "articleRef": "Article 57(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_11": {
+      "hash": "abda61dec7105b5ec21820ba20c2fad43ae915b13c0afcc9eee3058b4f2be287",
+      "articleRef": "Article 57(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_12": {
+      "hash": "730624c5d81156cf56062dd250be247111fd3315a6793d7c9124f09f191e0b02",
+      "articleRef": "Article 57(12)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_13": {
+      "hash": "9f27be362a0b28b66a4d674a26b6ecfbb42e67cf512186332156378694fc34a7",
+      "articleRef": "Article 57(13)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_14": {
+      "hash": "16a44db13df7c68dc4f6cbbaae16a332c18509fd0ee88b977f07be0a1c5c37fe",
+      "articleRef": "Article 57(14)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_15": {
+      "hash": "5f0500d9679dfab27249c729181a62719f4de5b3b11395bb14fa76b4c528c6a2",
+      "articleRef": "Article 57(15)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_16": {
+      "hash": "8c3a2d63f9cbc4da61229aa04a69bc932ddc89857a35ba4b901edb99b4f79073",
+      "articleRef": "Article 57(16)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art57_17": {
+      "hash": "012ad4052e704cd06e0ef992ce6d49dc865556c82d751dd960677faa2c2db946",
+      "articleRef": "Article 57(17)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art58_1": {
+      "hash": "98751509af12ea3b43d83ae8b84da48ae948f499c7fd4cb3213232001e7ba250",
+      "articleRef": "Article 58(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art58_2": {
+      "hash": "dbad783d2fd1b86294db093ad0632476c338af791c5e8641356d165c8a625327",
+      "articleRef": "Article 58(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art58_3": {
+      "hash": "d0fb0379384d0b35a007fc255ec3791c71c65fc41a081d4f00f5bc1c8999fd0f",
+      "articleRef": "Article 58(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art58_4": {
+      "hash": "0816c11a1e02464d08732259405753eb60ad442d0bb919d442df6309aac829b7",
+      "articleRef": "Article 58(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art59_1": {
+      "hash": "eeaafd570583d663576573e8a0302e2170c48593dd166d139ba6e30a9a858124",
+      "articleRef": "Article 59(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art59_2": {
+      "hash": "fd0010ad86478b88df62d19232ef56cfd67648af300a50d1e34ebca7acf16932",
+      "articleRef": "Article 59(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art59_3": {
+      "hash": "b1200ea72d8e08bd5925b595e836d035397d28532f755508d171d337d760dfa7",
+      "articleRef": "Article 59(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_1": {
+      "hash": "9db9f3a99b68a958e1e9fe43c3177b39d7f567f7ddca4bc355aac6feefc3ae72",
+      "articleRef": "Article 60(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_2": {
+      "hash": "9a52783bb3b4e10ea4d7ab1b7a73bb17861c132b6835155b32d03bb33910f13f",
+      "articleRef": "Article 60(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_3": {
+      "hash": "cd6b1743080f39c527377af01de555de268ce478f0bd3474a9855f7f4c4e62d6",
+      "articleRef": "Article 60(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_4": {
+      "hash": "14c708ecefd7cf9d0380505b5a7fe6ece87a90d2ab43dbbbb947e2f0e5ca083a",
+      "articleRef": "Article 60(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_5": {
+      "hash": "f4fa6d29b5b477b23f1ddaaa98c790735860946381198b2a197644da021dfa5a",
+      "articleRef": "Article 60(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_6": {
+      "hash": "de620b049d08b3bedbd994628fcd7096e97e549689815f6c43b2ef9fb670f29d",
+      "articleRef": "Article 60(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_7": {
+      "hash": "837ac4b33b4469333eec472fd62eb51519e199b6ad1c1b2b038d4ef1fdc55d07",
+      "articleRef": "Article 60(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_8": {
+      "hash": "4ea6f2d64f5deb9101897559bb3663376e7305c2d2e8dceaeb10a52c2d386f17",
+      "articleRef": "Article 60(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art60_9": {
+      "hash": "c4c6a15df943f29138cf2eff8da4890864408d9a76e209aaa8b5b29194adb8cf",
+      "articleRef": "Article 60(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art61_1": {
+      "hash": "fa57679107c7023674ec46ebcdb8c9c4c66b1a555bd60852a8430e4d146fbac2",
+      "articleRef": "Article 61(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art61_2": {
+      "hash": "b726f60be65da307186286e3d593148146d3ec00633241ce53a263f0c8275d7f",
+      "articleRef": "Article 61(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art62_1": {
+      "hash": "df026e70eb19606568f4890ec29f38f149550a0633d955d4af5fb7107793fa0e",
+      "articleRef": "Article 62(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art62_2": {
+      "hash": "5a5bcdb7e31533099043bcce25a58cc317d116caa655e584e2637bcc3e5f7be2",
+      "articleRef": "Article 62(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art62_3": {
+      "hash": "42184aee001cddde483c51047424b8a5d325865d7df5e5fa0cdb2dd11a9b1f86",
+      "articleRef": "Article 62(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art63_1": {
+      "hash": "949d3b24e3907f3efe6c78f18196ca355edeb1f986c235b23c43a64a6b523ad0",
+      "articleRef": "Article 63(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art63_2": {
+      "hash": "4387cc5dc216ad06f8b9f8af23b1fdad07c0d29c14ae54af52c5b358ec925c43",
+      "articleRef": "Article 63(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art64_1": {
+      "hash": "b2505b77641c333f5e24acda01d4c2fa5d699a893cb4a3ce301436aab1ae5425",
+      "articleRef": "Article 64(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art64_2": {
+      "hash": "8237572e383e9d721deb675b6e04f792d45a7853581bdce2b69ee6fa85ad7944",
+      "articleRef": "Article 64(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_1": {
+      "hash": "5d8febfe0306261ddf55aac8985f40df04205ea16c20142385d17904a7c13ece",
+      "articleRef": "Article 65(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_2": {
+      "hash": "1cd40586b258787b82e2290ec2b871f804c50145c6d3e4c8ef94d5292e1c5bef",
+      "articleRef": "Article 65(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_3": {
+      "hash": "7004a46a9869e84885453281b577816d697b519c31fd9e877ec45bf29f796172",
+      "articleRef": "Article 65(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_4": {
+      "hash": "6cd620503a2daa018e048d37ece84f906f2e6849f5045bf673ea01b4777caeae",
+      "articleRef": "Article 65(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_5": {
+      "hash": "ce14a47a5ed46b6adcf4c0952ea175924064b3e373120e925baa7eb0c660411f",
+      "articleRef": "Article 65(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_6": {
+      "hash": "d1b29aa4f6cb1956e8267325ed8fd43271039e375e80748b175d7f69910b21d1",
+      "articleRef": "Article 65(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_7": {
+      "hash": "fdeb52ea610aadc5a6dbcfc81f48d2b7847cf334231f80718447b426b9562935",
+      "articleRef": "Article 65(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art65_8": {
+      "hash": "3abb3390a7608567f22408abb4715d22732ac2c6d954de9dd1de9d933edc6abb",
+      "articleRef": "Article 65(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art66": {
+      "hash": "b4e27ed13d335268f33bf28b6f5b7d3b5a6bd9daba048351136ad391334ff742",
+      "articleRef": "Article 66",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_1": {
+      "hash": "8bee6c69478fe414bbc443848fd87a51973cd5df1fbd5cf26b40e6a376587f65",
+      "articleRef": "Article 67(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_2": {
+      "hash": "435a6aeee7120475fb6601565531ac7b382680c66de3f7820580fc5bb72505af",
+      "articleRef": "Article 67(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_3": {
+      "hash": "0a27cc96c2570d33ab10098d3f39b5b2df8b2de63a5d0007236941e4d77f30ae",
+      "articleRef": "Article 67(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_4": {
+      "hash": "32337f120ab46031bbb95c311c5e4fd08e122c805d32412f45457dab18fe3fe5",
+      "articleRef": "Article 67(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_5": {
+      "hash": "555b6049baf24f7e83216dbb93b319559401625ec05486755e98fddeec7b2589",
+      "articleRef": "Article 67(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_6": {
+      "hash": "fbd33b98b6ae2870b3181a99b2f8db1ea26ccdd1839800732f5d5146740ef329",
+      "articleRef": "Article 67(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_7": {
+      "hash": "372084b35f216ba7c93d5ad0100e78e2838f2e1024cb469c86ee2901693b8242",
+      "articleRef": "Article 67(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_8": {
+      "hash": "368dea160dd1f166da1ad2253521c5aa193e1f7c3ddb64faf7e51556d5fc2c07",
+      "articleRef": "Article 67(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_9": {
+      "hash": "a886bcc86e227db8a79d16e91d8b93666e077b31f8dcd0d5f175fcfde2e00ab0",
+      "articleRef": "Article 67(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art67_10": {
+      "hash": "011e2357028812f1939f29994a8c4d78f055329984538c0fd613e7be01f54342",
+      "articleRef": "Article 67(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art68_1": {
+      "hash": "be7d5e168cf7bd46a23b6ba2f8a4767c9290ba08e6bde51f8216d08fdf074852",
+      "articleRef": "Article 68(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art68_2": {
+      "hash": "4ae667dcde0b3b85c1d4a350e0ac9acde82f22f5a9cb3e65135837d1192918b4",
+      "articleRef": "Article 68(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art68_3": {
+      "hash": "407ee4143b25f5bb16d7d2fbbfd8c50a8bfa04ee1f5e4e24377a6c5a6d9bd2c4",
+      "articleRef": "Article 68(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art68_4": {
+      "hash": "21276c5c3dbf2b92a321c244a8ce01d0f5dc089ee1501322bcf105d4408d3198",
+      "articleRef": "Article 68(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art68_5": {
+      "hash": "d0ad8797f0f5d820331da53af2c55283ffe7f7110c8404606b45d29785ac1bf8",
+      "articleRef": "Article 68(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art69_1": {
+      "hash": "980b820efb6fac15ac0f30752ae82c70baeb7571ba3a4ee9ca91b2d6f3f0de98",
+      "articleRef": "Article 69(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art69_2": {
+      "hash": "f101e35f5f17a41ade6e69f4fc8763d0267301d814d220f7f1289f49ad9f2a63",
+      "articleRef": "Article 69(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art69_3": {
+      "hash": "a95d78e4c71152bb37d2cbc883b9317aa36a2f472641867670456d3c10ffd546",
+      "articleRef": "Article 69(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_1": {
+      "hash": "8563814048dd7752e15db342d8385c6b616c3ea5f224f664071ac160976b50cf",
+      "articleRef": "Article 70(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_2": {
+      "hash": "92dbaf9e71a321bc7fe812f27ead024c21f0437a4a48f1a53ca66ea95d8806b7",
+      "articleRef": "Article 70(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_3": {
+      "hash": "4d61fd517d032d933fdcf1383dcb5144b27df5a436374294afbe84dd3195f2eb",
+      "articleRef": "Article 70(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_4": {
+      "hash": "3f2270ec530e29bcd5a307cedce67b673bbd0d68f6c2fdaae953e6259f27d05e",
+      "articleRef": "Article 70(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_5": {
+      "hash": "86d6215bf7d167a71f14c6332dcc4c73821ff163d036566533b039618872519f",
+      "articleRef": "Article 70(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_6": {
+      "hash": "8010e9519d6e0e9301ee5708859473c1a7e3cd2aa34fc6408bde036425c14356",
+      "articleRef": "Article 70(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_7": {
+      "hash": "ee1e2fa458e1573cf93b883db7f1ea185d9994b84e5e116458d87f8471a7d35f",
+      "articleRef": "Article 70(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_8": {
+      "hash": "7db56ef442eab6226664ea86df8ae48a31d7ded0551417876f7ab8dc61ef2ccc",
+      "articleRef": "Article 70(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art70_9": {
+      "hash": "e7aada89d8138cabe389a681955126aa41cdebd188ff1ae236ea224b1f102283",
+      "articleRef": "Article 70(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art71_1": {
+      "hash": "fcaeb9cc43ad414dfd95a5949f701e2e3be970f58edfa242c5ace922366ec702",
+      "articleRef": "Article 71(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art71_2": {
+      "hash": "31ed79c49254a88cb4ca2eea9b1305ef87fe3f32385b95924b0c7582e79b337b",
+      "articleRef": "Article 71(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art71_3": {
+      "hash": "2dfb465bd9be4a3bd2f9a0628137b9e008208a8955e012c9eb20a5bb294c7fa8",
+      "articleRef": "Article 71(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art71_4": {
+      "hash": "9cacd66e720918dae3fbbf39cdaaca964f3cd0b012412cc6de5931df5e76405b",
+      "articleRef": "Article 71(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art71_5": {
+      "hash": "a4894fb7b976cf94441f5d5643353289a8a54d6d057be57d2ce6d8b3e2482dd6",
+      "articleRef": "Article 71(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art71_6": {
+      "hash": "f791be7d1709cf40c51978fac16a651e81f26b11b3d9520bb411f83318d66bea",
+      "articleRef": "Article 71(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art72_1": {
+      "hash": "1b934875726325e3d9d94babdc4503a443fc7b61a6f682ee6b4dcc712a4ffef8",
+      "articleRef": "Article 72(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art72_2": {
+      "hash": "d9416fc4c00704a49ff1aae26bb4ca7fd443a40b64c49b61ddcf2ab3636c6150",
+      "articleRef": "Article 72(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art72_3": {
+      "hash": "5c7961dab61f3b08ba283775e279e5abc149a7e9243733750169bd4b0b86a9e3",
+      "articleRef": "Article 72(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art72_4": {
+      "hash": "a3498bb02f04c5dc156ab35034298dfa113e3d5980f6dceff832ed44d7a04603",
+      "articleRef": "Article 72(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_1": {
+      "hash": "51dba039280353f4afb583fa2930dd8c6996d9f554071b0575d113667fc8d87c",
+      "articleRef": "Article 73(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_2": {
+      "hash": "fe6c929277212924e0615be3b1f2b8d3fcff060779d0ac8962b8771e560f424f",
+      "articleRef": "Article 73(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_3": {
+      "hash": "17d419f53ae0f63d9b8ce48c997e205e06f1c79be4ad183771cc509bf95bff4e",
+      "articleRef": "Article 73(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_4": {
+      "hash": "d44cc9514acab456c25d1e454e4f99d760686ab000f583de8b176cfd2398e1b5",
+      "articleRef": "Article 73(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_5": {
+      "hash": "2dc56b23e42c78b7541fc425347a50bffdb2a36895ba822f0d9d97feaf3d8bf2",
+      "articleRef": "Article 73(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_6": {
+      "hash": "2134ef932b017e1b6398bffe3f1f380bdf153c3c4a804e7f493d54e7eb133fb3",
+      "articleRef": "Article 73(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_7": {
+      "hash": "7625140b328869aa4772854766ac521e74d2f6d3c45a9ee06a985c72e7dae2b3",
+      "articleRef": "Article 73(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_8": {
+      "hash": "276e53b191d42038be2fa3797a83881d5f9e1ba9aaf3777447d4040cbc9b8368",
+      "articleRef": "Article 73(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_9": {
+      "hash": "1cf8bb496df0a5fe14aae92ce51fc9a610e2a2b29ba2cec432e3586cee5d860e",
+      "articleRef": "Article 73(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_10": {
+      "hash": "7c2413ab8d6bf5e0828c4f404681203a0997b93f7f5617d6edd6c8da25a1b6a1",
+      "articleRef": "Article 73(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art73_11": {
+      "hash": "45e3c46ea4f3d42afcc6fe19af8ef59d102bd28375e7fde5b5e4ab3604270ee1",
+      "articleRef": "Article 73(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_1": {
+      "hash": "a607af69dd5dd35b2238d603804c4ed860799521f109cf9dc54b66295484b324",
+      "articleRef": "Article 74(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_2": {
+      "hash": "a702b1a74105e9d2fa3c0fb2a74c8babcbac8f02851677670fa0fcecdc5c3c8d",
+      "articleRef": "Article 74(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_3": {
+      "hash": "3b2059c37d322425024b94e660d8aad3b3d4df87854102c4de3bbd556913a68d",
+      "articleRef": "Article 74(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_4": {
+      "hash": "45a6f87b03dc6d3900948fc971be3d3bc21a541f88558450bd81acd0635def0d",
+      "articleRef": "Article 74(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_5": {
+      "hash": "9921d51368961f4726cb32a242559e9228cddcf4e2d322a49a99801072062764",
+      "articleRef": "Article 74(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_6": {
+      "hash": "921c514d8f6c20973998cab19da65a5e8b8a99d28a8bffd57b05a8821c021cc7",
+      "articleRef": "Article 74(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_7": {
+      "hash": "940d00b769092f259825b2cd55d311b05e319b6caa4a1c175fb91ba4b9533a3d",
+      "articleRef": "Article 74(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_8": {
+      "hash": "80ff596b8e878094cbcaced0f321518416ade07e9870327436f6177a34ed6fab",
+      "articleRef": "Article 74(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_9": {
+      "hash": "4801ea2acb21187ab8cf94c9d850f42110c61540abbaa05af2bd55205d7c7523",
+      "articleRef": "Article 74(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_10": {
+      "hash": "d056f4eed4cba62874b22367a44bd15d48f0ef2a0e650e0f63328dd97d1a44d4",
+      "articleRef": "Article 74(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_11": {
+      "hash": "fc0fd628c16deb160c1231155acf6558165fa55482d5364a5fa558e4e2e4f320",
+      "articleRef": "Article 74(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_12": {
+      "hash": "8a9b7d7f94abf04f0bef2abe4c120f04f66a3c3fa29049f94eac9d044ed218bf",
+      "articleRef": "Article 74(12)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_13": {
+      "hash": "79bfeac19a76b91b3ddd0a696acc2c6421433ba702e5212bbe874ea8cc56921a",
+      "articleRef": "Article 74(13)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art74_14": {
+      "hash": "82aaf6b9e907de695775b18790a248328ff9c672df6177060911ad79106c7c00",
+      "articleRef": "Article 74(14)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art75_1": {
+      "hash": "5fa7420dafb14e1ad64344c19ad5b3a002814488d572636658e3404b77b319fb",
+      "articleRef": "Article 75(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art75_2": {
+      "hash": "720183943d261c510d5309d154ece62e48110f7ce0757188ce94d38cc0675e5b",
+      "articleRef": "Article 75(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art75_3": {
+      "hash": "990eb6aeb35b095bfc193db956caa42dbaa4108867d63a659e843ba4caeda4d5",
+      "articleRef": "Article 75(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art76_1": {
+      "hash": "fceb6edbc2e29ba9ae6e925a9d653063e761905b549d66e53fcaee84616cd7e1",
+      "articleRef": "Article 76(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art76_2": {
+      "hash": "df7ba8187a3f8bbab79433f8808ba48dc761469fc01947e1e94b1a16c47cce73",
+      "articleRef": "Article 76(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art76_3": {
+      "hash": "2ec40ac69c84ecaa4ebb4d6cc854b303b5ed6cb579ea45e4c82971208d8fe57b",
+      "articleRef": "Article 76(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art76_4": {
+      "hash": "9d619c5b1368c43b3b1ee61dc24e596ef23c0ce5389cf7935d06f847cf090e32",
+      "articleRef": "Article 76(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art76_5": {
+      "hash": "7b67bf2002bd3b755287930a1b038c5602b57500f0d439584b90d87442d72e4c",
+      "articleRef": "Article 76(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art77_1": {
+      "hash": "ca5082cacfc6079881cefafb34422d9315695a2b211b4bd554e153a377a74eae",
+      "articleRef": "Article 77(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art77_2": {
+      "hash": "7f98154306c09049a6d451bead7a0057d7348f25391651dca7a8f0d63716098a",
+      "articleRef": "Article 77(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art77_3": {
+      "hash": "0d1079cb43c74ea1a4df59ac77be58c07d7a5108cbf742c7628e75e24e7785f1",
+      "articleRef": "Article 77(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art77_4": {
+      "hash": "a33a27b3846bd11a80518250c1cc13ac7e16dfca985c4264d8cfe163cdbb6d5f",
+      "articleRef": "Article 77(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art78_1": {
+      "hash": "510860b94897e7fe900910b65c300d13e43acd82ea45ec98aeba65f130ff38ae",
+      "articleRef": "Article 78(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art78_2": {
+      "hash": "578dcc48a61fc45e11b0ee253025abe6fdb14a0dfb591467392ddc73e10d81fd",
+      "articleRef": "Article 78(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art78_3": {
+      "hash": "7f821acd00e2e6e6bd12da01af638530b6c03b09b229a8d75d2fcd4d2ecd9a91",
+      "articleRef": "Article 78(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art78_4": {
+      "hash": "971254c15a6e31ab85ff2ff5a535241e670f4e8d19a4f4a44ffc1050afe67e59",
+      "articleRef": "Article 78(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art78_5": {
+      "hash": "60ae1b879ace2b2044261e695f1042e514a987a8d8f0e016f633ca5c11cd61e9",
+      "articleRef": "Article 78(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_1": {
+      "hash": "06cff95ad4701757b60a02906a081c9bdebdede91fce9ce735d9a8361ed4d58d",
+      "articleRef": "Article 79(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_2": {
+      "hash": "7612623bf1c5c4f30dad78b82715c3699e1a3a924decabb9944ad2d91f313ecb",
+      "articleRef": "Article 79(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_3": {
+      "hash": "c7a677f731159671b4e64be4eb038c8626dbb9fa7f03801874cd9cb336a3a0e3",
+      "articleRef": "Article 79(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_4": {
+      "hash": "d13e3e3cc7669c5e07cb868f86fa94dc7c7f7bf2732a10f63d4f8b8bee908e7c",
+      "articleRef": "Article 79(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_5": {
+      "hash": "43cf7d935f0b39cad16d42708bfbe9f3fe7e2b255e7e75617a11d14d1046c133",
+      "articleRef": "Article 79(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_6": {
+      "hash": "4617b35f31fd545c9f9d449214f557dfc1f2ad0a827f88a0304abc85a0803ef5",
+      "articleRef": "Article 79(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_7": {
+      "hash": "463d03ad7eeb36b948a0c6dff4f846a98a1e13e17a01a4550e86071b2ade2e65",
+      "articleRef": "Article 79(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_8": {
+      "hash": "82f0d19c9a782b53bcd51f44071385a10ec988a17603ab27875f265fd28e2bfe",
+      "articleRef": "Article 79(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art79_9": {
+      "hash": "1d2606801c969c62552cad4ad1c831fa0da4b38c34ecb6b52770c98c9c60bc6c",
+      "articleRef": "Article 79(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_1": {
+      "hash": "0e0fc2c208f68dd9e4ff6df4a119b0ca25689344ec9487c3f7a691f19ccdfbb3",
+      "articleRef": "Article 80(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_2": {
+      "hash": "aac21801f3a5682a52d6844d54be1f79aa1b0eba3f2da3b08a1b132d162628aa",
+      "articleRef": "Article 80(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_3": {
+      "hash": "471669becb838371af8909e0fdf2845aeab08cec8cff8dc834cd33ff5956bf55",
+      "articleRef": "Article 80(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_4": {
+      "hash": "93e02fbe324f43f6cfb1296ef4e0bdb6027538ffbac52fd02af48c093c3293f2",
+      "articleRef": "Article 80(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_5": {
+      "hash": "c13c1a4e339474901e2196f492b8ef0daa04cd5d523734602400f14f2ab22d07",
+      "articleRef": "Article 80(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_6": {
+      "hash": "3ca54fcaed3132ae580b1c2fd0860ef39eda0a00b34967b39931576c551c90d5",
+      "articleRef": "Article 80(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_7": {
+      "hash": "10787caa19d9f8af5cbedfbcd373044b2d408cfb1874691677c919c03547e7e5",
+      "articleRef": "Article 80(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art80_8": {
+      "hash": "9fb6e852e5a2039325b6ff1ac2297e306a2777f9f3e605fbe92b43a3fa3946b3",
+      "articleRef": "Article 80(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art81_1": {
+      "hash": "e2de31dc70af4b0d87491eebe198262be98922d22a21518882e24a583fbbe602",
+      "articleRef": "Article 81(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art81_2": {
+      "hash": "65a5ea8923bd6d13f8ae9fd1102f42b35e6518b78e302f24ae462632dc02cbf4",
+      "articleRef": "Article 81(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art81_3": {
+      "hash": "2ec24be3d5a0123d5363f96b168fcecbeba6941cf72f6b8a0474dc6ac2aefa54",
+      "articleRef": "Article 81(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art82_1": {
+      "hash": "1578ed9c1a22c341a6b36d113319297b8e1aa012c30536cb2f7c0320b632165e",
+      "articleRef": "Article 82(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art82_2": {
+      "hash": "78f30cf95fbbcbaedab9ce348ec2b71c1f437fa36c645888b78db012aa857fe8",
+      "articleRef": "Article 82(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art82_3": {
+      "hash": "3fcb038cb4e995722ac843d868d094e00792104d7853e4494e4efee2546ac9d1",
+      "articleRef": "Article 82(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art82_4": {
+      "hash": "f7e0829ceac20d1ea9fad9b07d66721f0cbb6f1fdfc0e8302b747fbde3d13ae2",
+      "articleRef": "Article 82(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art82_5": {
+      "hash": "2f0d68433b4953ca367a86c3809347b5daee0717202f9749f9fe9462ff3b54a9",
+      "articleRef": "Article 82(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art83_1": {
+      "hash": "a1e9a347df034f94453d49e5c1951e03331bd6ff34a82326a929175269e17772",
+      "articleRef": "Article 83(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art83_2": {
+      "hash": "9c2df5b2ece7b817104f21bdfc07c0d50051a7666ac723f34569b06e8af5444f",
+      "articleRef": "Article 83(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art84_1": {
+      "hash": "3e31420d9c75f6672e0bc931969dfcdae7d7ca7452873feda20fb3b7a150a81c",
+      "articleRef": "Article 84(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art84_2": {
+      "hash": "6db45e33cdd36f5a9eebc86c199e66390c5ac3ee12ad4ba241226c97c9b977e7",
+      "articleRef": "Article 84(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art85": {
+      "hash": "56cc22fbb4df17479d81b8b177cac6766d74f8cf3b1d32bf35e8b456b329b565",
+      "articleRef": "Article 85",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art86_1": {
+      "hash": "f4af41c47e7a0f3cd878f72f5f7cad2b08ff93099a784b3492d65c660eac72cc",
+      "articleRef": "Article 86(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art86_2": {
+      "hash": "794af7ae13a3f7a9bf680dcf0b5a0f3eced89009522c1922db4da8c603a70e6a",
+      "articleRef": "Article 86(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art86_3": {
+      "hash": "833dab209c482dd06c15b9136b87d6845f641ca9675a0b8467aae3e94ef61c4e",
+      "articleRef": "Article 86(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art87": {
+      "hash": "3e6903ad58328ecb922b42248256d75ae9a4d80c123739027b0a74463b76fed3",
+      "articleRef": "Article 87",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art88_1": {
+      "hash": "8bd5ca55b53bfa6ecab872ea8c4597d94b56d84902d556bc9ff527b756203aab",
+      "articleRef": "Article 88(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art88_2": {
+      "hash": "54c828c4d8a4e83e6389a8854f1fe1dc83882bce81f17db4b5762b6bb5bfaf23",
+      "articleRef": "Article 88(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art89_1": {
+      "hash": "1e39115b14c6f9898e941d140a27bef7fdf8b58a03be3dc72f710df937c1d7ae",
+      "articleRef": "Article 89(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art89_2": {
+      "hash": "d5fee4a2585d58b5eccd273cf8b355e8bc915a0d2cd28ba30b417195a5fd631c",
+      "articleRef": "Article 89(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art90_1": {
+      "hash": "19310db8398fc1eb72c6cc01a4d4c30062907f15d21f9793a929810c3333a0a6",
+      "articleRef": "Article 90(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art90_2": {
+      "hash": "4b9f304a165a6066397d76b19b8afc887d43fff18503190415f160b87433f0b2",
+      "articleRef": "Article 90(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art90_3": {
+      "hash": "ef0009642f1caa3812c3e44c66e430313e64bbc20e3fb6770817ff4bd452ddc6",
+      "articleRef": "Article 90(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art91_1": {
+      "hash": "0901e77be02e500f9fd6f9e670211a503b3da644ddb438ca4d03ad8c7ece4c85",
+      "articleRef": "Article 91(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art91_2": {
+      "hash": "b6578de411ed77c2d14a2b70e20bb3dbd711a7c9fdf71400bef598de1a41f7ae",
+      "articleRef": "Article 91(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art91_3": {
+      "hash": "e505f9ead414ead07a19bad64ad70f554f5b79a29e04d8b40f05a660755969b6",
+      "articleRef": "Article 91(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art91_4": {
+      "hash": "0b4908b842775eab08452c13701578b27ae7e47e5ce20ad1ac1c5463fcfb9f89",
+      "articleRef": "Article 91(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art91_5": {
+      "hash": "7089b86d81b18fd78fa9754131b25b6c766e425e81462884dcbdac8a950b37f4",
+      "articleRef": "Article 91(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art92_1": {
+      "hash": "96a51e59d1c27399d8272d4c741c5f5130437089c41189187110a4ae775cf385",
+      "articleRef": "Article 92(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art92_2": {
+      "hash": "a835d504f3f61252a17f15ea36b59447fde3a1b729886fee8377812b0a08df22",
+      "articleRef": "Article 92(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art92_3": {
+      "hash": "9cf96c857d96e7e1fc0fd9607def6f5e3bb74e56250ff3cd2d521886fcddfde8",
+      "articleRef": "Article 92(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art92_4": {
+      "hash": "228c0ee2d09c843f6752ebbb3f779646735896c45bce775502a809af831b9933",
+      "articleRef": "Article 92(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art92_5": {
+      "hash": "ff67d404c9beaafa9b2d95fc4ea56c86f37ac6d4b476835fea9debbdd6b09bc5",
+      "articleRef": "Article 92(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art92_6": {
+      "hash": "09f5dde87dd62e41e44ce4eb6a81d87ade88b8b3dd755fd2cfae804b1f6b155f",
+      "articleRef": "Article 92(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art92_7": {
+      "hash": "52b53412746c722aa75da1fe10ede58c924c7ce5c3891f60f28d8b3211de2f6c",
+      "articleRef": "Article 92(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art93_1": {
+      "hash": "ed98b75f3998c7672feb8af895e9088745b66b0120fbd61cda1898fb23e68d65",
+      "articleRef": "Article 93(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art93_2": {
+      "hash": "e3dda8e1e26c07b3bb6ef2cc05da55f29a2a275f99e72a64673fe46cc52bcf0c",
+      "articleRef": "Article 93(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art93_3": {
+      "hash": "77df4340bf56fa479191b938a90a6085b10f166abf602ce95fd3ffa0a284010e",
+      "articleRef": "Article 93(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art94": {
+      "hash": "9e3d055cd81001452d6cd50fe97c31f10515a5d68190703a56b5afd078930af6",
+      "articleRef": "Article 94",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art95_1": {
+      "hash": "b05cc10d879d46d630290c2479fb23b766ad0d3bd8d6dc370c79e5a6c43f54c3",
+      "articleRef": "Article 95(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art95_2": {
+      "hash": "d46a0e357f9d1352366bb6e9b784f32a407e0c3f90b7ff208015914cd743352f",
+      "articleRef": "Article 95(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art95_3": {
+      "hash": "25658f924da2046b6ad6215521eb6d75ba1be9f0138ff0ab7a6ecfad065368d8",
+      "articleRef": "Article 95(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art95_4": {
+      "hash": "90c0f481662d0cd978822377e2febcfd70fd53a069e7f808864ac666a7dc8542",
+      "articleRef": "Article 95(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art96_1": {
+      "hash": "e3476137de3526ed5c17f23ce89ab62666e9bda9889b48df2dd0ed2f6aefd944",
+      "articleRef": "Article 96(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art96_2": {
+      "hash": "6fa949427a0f095b2c7ea84989f8adc4af42b43115044f8144993dde9ed21bd8",
+      "articleRef": "Article 96(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art97_1": {
+      "hash": "1b541346b9adf5ce53e6349016d09b102c8a270096286c9fd5e61f568959566a",
+      "articleRef": "Article 97(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art97_2": {
+      "hash": "dfd20ae0b28c271cbb174c4ca228bc19b02e4ca051432671cd55c5c15fe34ecb",
+      "articleRef": "Article 97(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art97_3": {
+      "hash": "ae3ac89f82c223ee5cf0eb2b3c428b2321d8dad06dedf2611cd00355fdc48b0d",
+      "articleRef": "Article 97(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art97_4": {
+      "hash": "d85d431907652cba477df429e0a2228b3eeeb625c3ed73a9701ccd197649c5b2",
+      "articleRef": "Article 97(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art97_5": {
+      "hash": "59721b2cd4044e159d4cef04f62237c4a564b72af9627c5af50dd2c1ea0d45dd",
+      "articleRef": "Article 97(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art97_6": {
+      "hash": "ccff2544e44d459943f42767cabfcf0c284ae92a9eaad7303c6da93b74bce582",
+      "articleRef": "Article 97(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art98_1": {
+      "hash": "b7342f838b3cfce96a9edb80ae2f5371f68d46843cc3cd004422254d7e7eef2d",
+      "articleRef": "Article 98(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art98_2": {
+      "hash": "d3b43e5127834cecc21ec1bcae3f832534d11cfc92ec394c388b17db51c878e7",
+      "articleRef": "Article 98(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_1": {
+      "hash": "7d21ab0992b1d7534d5850df3c54ffab85d99855197405c6a35c98f2a266cb6f",
+      "articleRef": "Article 99(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_2": {
+      "hash": "4777ff57366e693104f3dc2b763bfe788ecb3ae2c93c74c19425379e798ae67f",
+      "articleRef": "Article 99(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_3": {
+      "hash": "021a9a84c1247eeff2a03a8800f307f4edbe1fcb6b526f1a477da680d7ad5569",
+      "articleRef": "Article 99(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_4": {
+      "hash": "dd0146b5a3ddb82b07aef38305c2846b1437cfbea83bbac4efed2ccec1604b0e",
+      "articleRef": "Article 99(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_5": {
+      "hash": "3452941fcbbc13a11f8f459e1cce27040a60d7daa546c34df62f544133527547",
+      "articleRef": "Article 99(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_6": {
+      "hash": "2be91eaf5937b936f3ba33a33d4a0faf7463bc2ab650336acc666b4db97d0e8d",
+      "articleRef": "Article 99(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_7": {
+      "hash": "4e4e58dcace0c28b12f3c4a2ab236f757799eb57a8c1d762439b6ba1ca2569bf",
+      "articleRef": "Article 99(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_8": {
+      "hash": "4192f06f326980bd14af04bc0a38ba0b6af3e54dfd4053155ae31f0d62a6f63a",
+      "articleRef": "Article 99(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_9": {
+      "hash": "72db0769e8a42ea64f87a9092bba90d21f8ac3e5890830c2ebba6739bce45d34",
+      "articleRef": "Article 99(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_10": {
+      "hash": "17b34b8ae05cf0185cc39bbc42c96c708e455d428f533ee4603000b7f0abb2d2",
+      "articleRef": "Article 99(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art99_11": {
+      "hash": "df916ec63df3a8cb4978d77b699fb27d3b41357a8e81b6b35f260eee1263499f",
+      "articleRef": "Article 99(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art100_1": {
+      "hash": "6c55a0368fc9976838d1c4a814ab0b85d6fb2ce1206cd108a4818e79d9f4f9e3",
+      "articleRef": "Article 100(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art100_2": {
+      "hash": "48773d3d4b3fc537e9bcb965d6fd09f7d0d2fbff83d98fd8607114d681f4a09c",
+      "articleRef": "Article 100(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art100_3": {
+      "hash": "8d61fdfd09cfbcc4a50169ca25149ff39f957171ea480e2035e999ed04faed6f",
+      "articleRef": "Article 100(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art100_4": {
+      "hash": "ef1e61d32131ecfb6742cb04a04a608d0c0734056229c60c47fb59ff604bf67a",
+      "articleRef": "Article 100(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art100_5": {
+      "hash": "210738e53d4d3fce216efa159d040b4446ca60c29df6e48bb999e7b5db643a0d",
+      "articleRef": "Article 100(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art100_6": {
+      "hash": "6a67c7aa5b9ccd7f384a259e838dd9b680b1896e047dd1f2707617e554ce0d04",
+      "articleRef": "Article 100(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art100_7": {
+      "hash": "b25e1474fe148982fe7113005ac5d92888f806427c74f04d233260740c395b77",
+      "articleRef": "Article 100(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art101_1": {
+      "hash": "484084f0c34d4a88002df2587b486c1766e7657fb194866de64b14757656f233",
+      "articleRef": "Article 101(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art101_2": {
+      "hash": "cf4000390ce8324760a769fe7dca517127262c08859f84c0f904fca1aff7f900",
+      "articleRef": "Article 101(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art101_3": {
+      "hash": "120351a1510c7dbe3114c431d95967745156e05edf3ba564cd4f5354cb180dec",
+      "articleRef": "Article 101(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art101_4": {
+      "hash": "ba339205cb19b23f185bf7356ad4e7b4ba8fbf96b5e912b4d514d3e9b1aab2fa",
+      "articleRef": "Article 101(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art101_5": {
+      "hash": "5c4fbe65b632d0df0dedb804f9521ee8bc187948d43309673c6ffdc8abd3f6f1",
+      "articleRef": "Article 101(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art101_6": {
+      "hash": "c52d8339807bf48a424b4a86a08d003ed946081a694e33da9dad79d11388cc72",
+      "articleRef": "Article 101(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art102": {
+      "hash": "0be10e874b143cb5b702ae406e2f6e65acb213554a379597e35be4a9fc5cd367",
+      "articleRef": "Article 102",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art103": {
+      "hash": "1d5a4fe1598e1a20753bc00e57a187feeef08a7755f7dd47c8dc0610bad2094a",
+      "articleRef": "Article 103",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art104": {
+      "hash": "194a5d3fb1d145dbe496db1b5b66662fd18cb586b488b6fba604db39c74a8648",
+      "articleRef": "Article 104",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art105": {
+      "hash": "ff425a1f0e4548a9926bfbd11b403f0fe3807448e2c160be26fa4c42994d8be2",
+      "articleRef": "Article 105",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art106": {
+      "hash": "6d973efc46d66c850c83e2d3b7ac7edea970f2804bbf0087d2c39e346a13ff15",
+      "articleRef": "Article 106",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art107": {
+      "hash": "de209c052cb091431a8298dc2a911fe7a54642f409cfaf244c4abb99137110d3",
+      "articleRef": "Article 107",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art108": {
+      "hash": "5fcf01a8591e53ad7e87bf8ffb1067349a6f7e697407e0ae2a485ec36ed7d52e",
+      "articleRef": "Article 108",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art109": {
+      "hash": "2b2a797a2c96aecf761d6bf2305567d200d8d9c1d9c5519e1420a75f7f957921",
+      "articleRef": "Article 109",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art110": {
+      "hash": "3f28ff52f0badbcb1ad8e50d684bf10464d2d33d256e2a90ede07bc5b7491a19",
+      "articleRef": "Article 110",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art111_1": {
+      "hash": "14edaa12f954e1721e2c929acf875497b091788ccdd63122086f6e42c742d0ed",
+      "articleRef": "Article 111(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art111_2": {
+      "hash": "ce7c3cc16cd4a0df97bceb051dac6b2fbd615a1e34741ac15ca9ab0b7257d137",
+      "articleRef": "Article 111(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art111_3": {
+      "hash": "e1148c702d8d6b31f3cff004bc5f594303dd4e0e56e98a9c10ad1b251bdcc389",
+      "articleRef": "Article 111(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_1": {
+      "hash": "28940a9e7151a645391365d2d67139b1af41d9f012909a91dc659bbf3ccfed8d",
+      "articleRef": "Article 112(1)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_2": {
+      "hash": "5d26aeb4743c162eb085930617b4e27f547dd6c0c3aec2f5b267d72e2c923682",
+      "articleRef": "Article 112(2)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_3": {
+      "hash": "8317eadebe117a0414dd023df7194181eb1d5d056073ba32ccabf9bc2f039ee4",
+      "articleRef": "Article 112(3)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_4": {
+      "hash": "dc58b111ebefd6aa733a707fb480cc7da9bc17ad7a712bb03d5f49bb58b2661c",
+      "articleRef": "Article 112(4)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_5": {
+      "hash": "209a52c81f7a9960073f9588e6ed125757c5c6b3f1f15f68147b9278e2642a15",
+      "articleRef": "Article 112(5)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_6": {
+      "hash": "db3433076978bf4ac61683c38575fb99b66e4e2e36c4bd271db0caf3fe6a0576",
+      "articleRef": "Article 112(6)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_7": {
+      "hash": "55f2c1e3d61b44217633a420fac5b49bd270154d8bf686a7caa7ba3f4e18b7cd",
+      "articleRef": "Article 112(7)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_8": {
+      "hash": "71f9fcf1e3a081b5843bf6b019c2862ee7171e9edf3dd8bed93af630ebebfe91",
+      "articleRef": "Article 112(8)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_9": {
+      "hash": "f43bde11a5112bf1ec3b0d4c85557c4e4e015ddd0ca19556b818dc79a7119d53",
+      "articleRef": "Article 112(9)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_10": {
+      "hash": "d39668b494f0edf358fb476a5438cc385daa13e2d4cd39e76ee89475f039b742",
+      "articleRef": "Article 112(10)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_11": {
+      "hash": "eef32321df7a9fe671d39e9fd4867c45b47b17c016bf3f025ad05b7484492b40",
+      "articleRef": "Article 112(11)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_12": {
+      "hash": "be478ca357962b229c1473a63c940a5040333c28ff3c20f03f29ab98b2004f86",
+      "articleRef": "Article 112(12)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art112_13": {
+      "hash": "8c37f97cfe8f907c7cb90656980a6ccdd9728514968c35c4ddcd5823dfc9c4b1",
+      "articleRef": "Article 112(13)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art113": {
+      "hash": "c992b7d3b3c7cbcb5377813af7fc1b3865fae4a4f951411f6a12204aa727ef6d",
+      "articleRef": "Article 113",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_1": {
+      "hash": "af153afe7d24a556848eb33d1b02cb1fdfeef213284572e3e55650b5a57ae2be",
+      "articleRef": "Recital 1",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_2": {
+      "hash": "3308fe167a8f21c45be5312c393438d97357ce4118668322cb49c1c84005f95c",
+      "articleRef": "Recital 2",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_3": {
+      "hash": "dfe3ba8bd44c0fcb2e076dd83fe42597d69c93afa29a814e7a6f754212f8f266",
+      "articleRef": "Recital 3",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_4": {
+      "hash": "1894f6b98cb7760a93c3dd4b8ba0dcf2aee5ea965edc81732ca29bf753bcafd1",
+      "articleRef": "Recital 4",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_5": {
+      "hash": "9f09d8f6787d1a55c5dd7497d044b2f417457eb3c0876d226f35add53cdd6f4b",
+      "articleRef": "Recital 5",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_6": {
+      "hash": "e1517cef0ee09e82c9a1855ee0f8aa7afd71448df56042c0d6ce9e0307338bd9",
+      "articleRef": "Recital 6",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_7": {
+      "hash": "da803f3b19d48bef970cf35079be8aeee92a624bcc153868b9cc003ae9238d82",
+      "articleRef": "Recital 7",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_8": {
+      "hash": "c5f76700c2c7268f15e1e4a955763b3e4190210f1c521bf6d119f3f2771a7c46",
+      "articleRef": "Recital 8",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_9": {
+      "hash": "204a316617dff9e6c865d3778c6726d8c550a744742d272fd1a5c21d3a5d4205",
+      "articleRef": "Recital 9",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_10": {
+      "hash": "d38230fb574ad90e55be4f4be75f99afd7b5ec50f241d8bccfd09d47fc69e7fd",
+      "articleRef": "Recital 10",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_11": {
+      "hash": "8bba4f163c8f7733235da05743dd62b9ce242860e62b4bb92ba95b6f42378218",
+      "articleRef": "Recital 11",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_12": {
+      "hash": "f9294444b100752dcb06248e3b7cc3a49647dd1f94e86c44b78e8255c420dfee",
+      "articleRef": "Recital 12",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_13": {
+      "hash": "28823e77b2ba5c4cea0222fa2888d17bf074ca2544f02cd586fb839099c05052",
+      "articleRef": "Recital 13",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_14": {
+      "hash": "3b2707a1673558b3f7af72c5b65ab990b828f65692b767dab426a59dfeaed617",
+      "articleRef": "Recital 14",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_15": {
+      "hash": "92521c5408e294a2ba0fff9af4740e3fb4f59fd21ecee99082d39abdf704c644",
+      "articleRef": "Recital 15",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_16": {
+      "hash": "1e50b711c63e3dc93078f77d9d6718506b96bb7022ea90b1a8ceceb4a4c1105c",
+      "articleRef": "Recital 16",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_17": {
+      "hash": "ebc9c1ced7ecf802b5b3d0877e23a7eb4d960e5e46c31b3e6b46114dba0dc639",
+      "articleRef": "Recital 17",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_18": {
+      "hash": "f014e3526822ff61049e37971e257e849004f3fd1d1f416b8a43c9b4341303be",
+      "articleRef": "Recital 18",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_19": {
+      "hash": "575387e5100cea2bb9b5d0a674ab0784727d510d7a1d0fc43ed5d190a46864e5",
+      "articleRef": "Recital 19",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_20": {
+      "hash": "121b61963f75d531d93c1ca3e45e33cd60d26b9897d85da7c65ed68577a60a40",
+      "articleRef": "Recital 20",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_21": {
+      "hash": "95f779b9c0df55d5f8afb240ff379b402c57b6aafa9086f9cc3d8dc47cf1c983",
+      "articleRef": "Recital 21",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_22": {
+      "hash": "ec50b843dc1208e6deb9f76f78d687bdf3c918961100aec52c80d6d7ff5b0c56",
+      "articleRef": "Recital 22",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_23": {
+      "hash": "73bdaa7eb5af9f26d69235f43e3d073bcb95358e31281cb0480902373d4b3eba",
+      "articleRef": "Recital 23",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_24": {
+      "hash": "fae877e414c6b36ea91602e5723eb91093e5042e63026ee3a9bf44ef37a57811",
+      "articleRef": "Recital 24",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_25": {
+      "hash": "9b41d4ebeeefaf121987d28df27dd6dce37a7c876261974232c20557fed18bc5",
+      "articleRef": "Recital 25",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_26": {
+      "hash": "fea0e1b3a372cb6a02b26e74cb54258b01bac7a79aea605235356d3a1d60b211",
+      "articleRef": "Recital 26",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_27": {
+      "hash": "930a17b13175f1257c53228d4b4e9fe874c52d8f7f979fb4c436d66e93cf1b82",
+      "articleRef": "Recital 27",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_28": {
+      "hash": "beb5e461a58e53abcdd11d394d45c376c1e12fcb17a2f6d06e73f3a1cdbc8389",
+      "articleRef": "Recital 28",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_29": {
+      "hash": "e68bc363f83b5a09667c8d068ff15c334e0ae308d1b953cb4142bd19105f0759",
+      "articleRef": "Recital 29",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_30": {
+      "hash": "2874ddee434c0e089020656b2dcddabb9e56aeeba036c695f104af90d0e90982",
+      "articleRef": "Recital 30",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_31": {
+      "hash": "c5151b93e12e2b820268e1c2756467838c89e40a2879d6b162832f3f47eac193",
+      "articleRef": "Recital 31",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_32": {
+      "hash": "530259ed6665b087b07f16217fe116d6516713c947276fd60102d3558650c616",
+      "articleRef": "Recital 32",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_33": {
+      "hash": "a86ca31ead3f226b3b5700ed53c6be9a0ccd7b60b1016ee2ff39ced3c9563e6a",
+      "articleRef": "Recital 33",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_34": {
+      "hash": "bf98dd9e002ddbf5e6439b24d7b6e40eeb7e68ac44de42735231d3fd9a4ea15c",
+      "articleRef": "Recital 34",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_35": {
+      "hash": "6b35ffbff8280e188b20c3d904f91749b61f2aa6ec295f487c823a54784e2366",
+      "articleRef": "Recital 35",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_36": {
+      "hash": "9433a0af2ffab6e18959bba9f9822adc5d041057522388ad268801789cccda48",
+      "articleRef": "Recital 36",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_37": {
+      "hash": "6cfadba893740fb51ea777f3cd42413734d7ad6dc08fd6e86e574f53a0b5e1e1",
+      "articleRef": "Recital 37",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_38": {
+      "hash": "764c3aef988213cb070fe60466f765d2af2c4d6c6ce4a67198508a1350fc8cd8",
+      "articleRef": "Recital 38",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_39": {
+      "hash": "21c14577889dbd7720fc6a36e7e1d5eea1fb8fbaa07b8c728d7fdbe1aad3d035",
+      "articleRef": "Recital 39",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_40": {
+      "hash": "850e5a4a1895f9f39b7ef991883368776f2b62169d0e6caa73186442ecf91253",
+      "articleRef": "Recital 40",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_41": {
+      "hash": "6909d9cbd8231714101e5ebcd4b55e2d2f7a8b26624d60f4d717527f301bb810",
+      "articleRef": "Recital 41",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_42": {
+      "hash": "6a8ad0be499a40e32d557e1650d7becdab05378bc2d919d3544cb2a4ba3bfb99",
+      "articleRef": "Recital 42",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_43": {
+      "hash": "5ede479958ce2ccda0538a8d82b1a7b0184ed73d8f80afc8db5cda688f81ff2f",
+      "articleRef": "Recital 43",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_44": {
+      "hash": "b155ae7c66c98bb151996aa553095688af1ada6c2f3531f6abbd72ae77e458bd",
+      "articleRef": "Recital 44",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_45": {
+      "hash": "12d80c585eb9b46612847c4919b0a24ba743c312fe58c192d8cd2f322d47177c",
+      "articleRef": "Recital 45",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_46": {
+      "hash": "5e0ae4e2c3f88866da83eb339f5e563c1e953a6f813682d8237ae8b1a9511e6a",
+      "articleRef": "Recital 46",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_47": {
+      "hash": "b8ef3aab7ef0c99ed69afeed2e5c40549791d714fccfc4df05200eef53aac691",
+      "articleRef": "Recital 47",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_48": {
+      "hash": "5cdcfe4c78f607edd626ff48b2751eab9e87d01a444a8440310a61c16674036c",
+      "articleRef": "Recital 48",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_49": {
+      "hash": "7fd47cdf252ed5a602a4c662a19c815e5c4d88eb3e46a2c7e2a0b60291193abd",
+      "articleRef": "Recital 49",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_50": {
+      "hash": "42facb95bf5cc44c63e405479f7722b5b4a104d90d3843b3cccc99c0354688bc",
+      "articleRef": "Recital 50",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_51": {
+      "hash": "9f3ba34bb66a2155b0928f110617bce6f4ba3ed2bbd82a51d292534ca2be1f93",
+      "articleRef": "Recital 51",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_52": {
+      "hash": "a9db8c70428966e362c06793db3e71693d2bd1cb081650c2db7bb1f914202056",
+      "articleRef": "Recital 52",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_53": {
+      "hash": "5a5159e74ef8ff9994ec0b00575cb424b1e7f05329bd6854b6df1c207665d0ec",
+      "articleRef": "Recital 53",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_54": {
+      "hash": "c42dc927cadc065aa39a80277aaafdf0d3e40dfe585bfbba185b3f9658da8cc7",
+      "articleRef": "Recital 54",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_55": {
+      "hash": "3ec93e0e1782857728daf7909e3a159d3b9de57238131e407eca10dc871eedd4",
+      "articleRef": "Recital 55",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_56": {
+      "hash": "18e6ec68bc130f89faabc9800a3d4ab7aed8ff87c8b7b0049cfc04e7d1f874ff",
+      "articleRef": "Recital 56",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_57": {
+      "hash": "a33d54b84956b9491f62289bf5cc8e7b2e57e116b86e87f95c962b41830350bd",
+      "articleRef": "Recital 57",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_58": {
+      "hash": "e74cbeb9eb537741429597927105bf3377e7c186f1ea19059a604c6ffe8c6a12",
+      "articleRef": "Recital 58",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_59": {
+      "hash": "1a07bcb53d6e7ca4084b4e9849eb55aba744ab58e0298f90789ce4a6efc2af7e",
+      "articleRef": "Recital 59",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_60": {
+      "hash": "c836e72fad200696d3a21d3db1b21462df09bab402db9da514d07ff94c8940fc",
+      "articleRef": "Recital 60",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_61": {
+      "hash": "56decac62bc913e6907b72e338ec7d1ef2ed6b49c9a7da515ba9ebd37e0d06a9",
+      "articleRef": "Recital 61",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_62": {
+      "hash": "6e79674273f398fd98fe9db04897259cdada639558628c47f2b3b8fe0e04ca80",
+      "articleRef": "Recital 62",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_63": {
+      "hash": "a142f5b8ed6fe4ce961fe4bb9c9ede5ec996618cd7c8763c2163a124afe509ab",
+      "articleRef": "Recital 63",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_64": {
+      "hash": "9531455a70d04534d84f3f0185ef400b763003bf1484ad0fed86f5c1bd5744a9",
+      "articleRef": "Recital 64",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_65": {
+      "hash": "fa6e0366d0dd57088e12dfaaf4ddd835bdb73a1cfe5d30ab15e91686edce67d3",
+      "articleRef": "Recital 65",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_66": {
+      "hash": "a2f0915486ae6cecbdb60f04b9c9ee4f482fd1575b070882e34dda714a1e8fd7",
+      "articleRef": "Recital 66",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_67": {
+      "hash": "e0721a94d2e6b49271b93e748a6cefe91eeb98cbf105d3ed020fc4ba788e8536",
+      "articleRef": "Recital 67",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_68": {
+      "hash": "8453bcac60758ed8ef62d6be5f95d7c9dd7b44cb590fc1a8d7883f92ebbbdf38",
+      "articleRef": "Recital 68",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_69": {
+      "hash": "97061ca072f6874d2f447c378f1016eb064b5d4c4d9e1adc73910c7b0d2472b1",
+      "articleRef": "Recital 69",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_70": {
+      "hash": "4a2a7132f316081be9e31664c322a9fe76ed48e8584ddd271d074119a94c92c8",
+      "articleRef": "Recital 70",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_71": {
+      "hash": "1933a84030a50642ed13816342930dd2dddd430db583f2ef6f973529489c1eb1",
+      "articleRef": "Recital 71",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_72": {
+      "hash": "45c57288127d11772ff9a4ffdf6e27f1172bb6b469c6fc50d3ddb3b0419a5989",
+      "articleRef": "Recital 72",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_73": {
+      "hash": "f6b8f4a1b97126c66b222f5fc0da989ccb242b7088dbca6078c4e6d9388c91c9",
+      "articleRef": "Recital 73",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_74": {
+      "hash": "afed35dee2f2b672b2130a9321208b05cb516a6bd414789712a995e1dc4292ae",
+      "articleRef": "Recital 74",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_75": {
+      "hash": "6d2344d14e51834855dccf4ac3d61fec0542cf60e1d7038ec6268e7cae28a81a",
+      "articleRef": "Recital 75",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_76": {
+      "hash": "9238b00d62cffed427a3275cfcf542df12867f6bd16850eab1f126a482be4fd4",
+      "articleRef": "Recital 76",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_77": {
+      "hash": "93aaba7ba705ab1e61974d93f3a0e5dd0a9fbdcdeb1ce82d852776aeba9d1207",
+      "articleRef": "Recital 77",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_78": {
+      "hash": "0b6e46dfbc168d93923c3c9c701806cc403998d71b3ce825010745d8a2c764fd",
+      "articleRef": "Recital 78",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_79": {
+      "hash": "d39f377e273cbfd549ac5e7d6e03ed01c277b5bac7c18aad989c3014ae2dd92c",
+      "articleRef": "Recital 79",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_80": {
+      "hash": "4370d2f1712af5884ef6ba981acccbb7ae0818dc7cd46a61cc171221fae8eee4",
+      "articleRef": "Recital 80",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_81": {
+      "hash": "54e284706716fef1dec714bd5b469f9afdf7d6eacef7887945622df0c84ab3ce",
+      "articleRef": "Recital 81",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_82": {
+      "hash": "5413ba9eacf385543a3514a8fc8f445d9a00137b22ab06fd9a30a6862c06a4dc",
+      "articleRef": "Recital 82",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_83": {
+      "hash": "948e92df661fb84ed800858748b9640daba49d9fcba9fbefe66435bcc73aeb99",
+      "articleRef": "Recital 83",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_84": {
+      "hash": "4f2ba462db1b8d9ac586e68676932f5b4d1ad205f36d63bef883bd531eedba5a",
+      "articleRef": "Recital 84",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_85": {
+      "hash": "762ec60d8d7b1df57d6a4d2b5d15c2456ad938d023044dfe15eb5f10ef1de5c0",
+      "articleRef": "Recital 85",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_86": {
+      "hash": "431f844e657035e700e3cb4dfd34749b3cbed6e0bc16502afeeebc5eb01799ee",
+      "articleRef": "Recital 86",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_87": {
+      "hash": "892f7f476a8418267a7cfbf0eae5eccf02a93ed6273ac75f36d7800f9efa9541",
+      "articleRef": "Recital 87",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_88": {
+      "hash": "f95dc51e4ccc9407c0bc65fdda23d63be0e8a34a5c6a074677cb3ba06e1a6705",
+      "articleRef": "Recital 88",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_89": {
+      "hash": "a2a69fc276404b7db8a8515149c1c0302e8b90e8e418c572b627b506a42f5615",
+      "articleRef": "Recital 89",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_90": {
+      "hash": "a53f62bdac525b4ddfccad9f45d54a7e7bc323dda3ba13133ae70cd4364b3f9e",
+      "articleRef": "Recital 90",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_91": {
+      "hash": "60d62c404f718683aba65df94c9310a16b664124f54c6585e62553a9be78571d",
+      "articleRef": "Recital 91",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_92": {
+      "hash": "79cb928f1ce4740bbbb7fbc7feb7346c52028454e5c5a9f46c4e727cf3b7e21c",
+      "articleRef": "Recital 92",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_93": {
+      "hash": "0b5b4806e38d3f4532ec73dc880ac40618828c89e9620453bddbc1d4cd5f29af",
+      "articleRef": "Recital 93",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_94": {
+      "hash": "83b598a2a9777d91fbda14dd16727556c0eef4a645afb7ccf839b9102bc235ed",
+      "articleRef": "Recital 94",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_95": {
+      "hash": "d927b46d89d4952856a796c718464ccff90671042eb3b2313ebcdc2b1654960b",
+      "articleRef": "Recital 95",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_96": {
+      "hash": "ad8c45bdbbe36d5496d6f8974c652b5a4e92eafcfbd31e7fad08d9a15fa53aaf",
+      "articleRef": "Recital 96",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_97": {
+      "hash": "78c874a9c7f9fb80912a996c5bba72b52e74370fea8dd018c3d53a7ba65bdbe8",
+      "articleRef": "Recital 97",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_98": {
+      "hash": "039f3afd56fef54c1ab1e5cb8931652432d13db80a319ea759452b2c221a3146",
+      "articleRef": "Recital 98",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_99": {
+      "hash": "22fc808a0e74c9f5c660e35d9ac74fa0e4417c253032ca14f8165af85f7f71cb",
+      "articleRef": "Recital 99",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_100": {
+      "hash": "b6622034b035816fee301e422e7c1161005dc26e703fb4845a75883005061a1e",
+      "articleRef": "Recital 100",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_101": {
+      "hash": "904729f675d3b63704ae29c59bbbad395ee5b8ce9928c37de93a05f6882d9ce3",
+      "articleRef": "Recital 101",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_102": {
+      "hash": "86b333fdfdce1217b61b52732aa8d4652ee30c25b3970444b4ced7de096cf78c",
+      "articleRef": "Recital 102",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_103": {
+      "hash": "796b5bc14dfde198cd94db66f556b809a82fac3e2c89dc2be4bfcd7f643b0bbc",
+      "articleRef": "Recital 103",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_104": {
+      "hash": "5162da508afe7e3044aa8ab5e6d3b15797bbc970f8528b78084c97a7972335f0",
+      "articleRef": "Recital 104",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_105": {
+      "hash": "95a82721d1279c5fe2654cb2a76b3eafb0bd0480af735c6a4bca517ef07ba54f",
+      "articleRef": "Recital 105",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_106": {
+      "hash": "c2d455941aaadb65a388b663509ed48b0fe41a264eb62f8fe5b15a0f585cc8c4",
+      "articleRef": "Recital 106",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_107": {
+      "hash": "d484b048a3f0329044a734918095ebeca1538cfd2c1cfdac0d8ed9e7fa7e0ef9",
+      "articleRef": "Recital 107",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_108": {
+      "hash": "1a5877dce27fcdfff16dc0b47b9cbd93118883ba5e0f1858c6cadf78e50a149d",
+      "articleRef": "Recital 108",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_109": {
+      "hash": "60092a4267e917fca0984b651ff882376c9d313957f37833356a47d34eeb9e5c",
+      "articleRef": "Recital 109",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_110": {
+      "hash": "44542df28c7c7a24a8e942142213435c6e91117e7369ec427a489f29b62d335e",
+      "articleRef": "Recital 110",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_111": {
+      "hash": "11983d4a5e62c345ddf24a7ecb294a803425f16a243eb05caeb729a6685efaf6",
+      "articleRef": "Recital 111",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_112": {
+      "hash": "171a492115275719226be006cc2213f1ee579c225177b87700cf8614d26626b9",
+      "articleRef": "Recital 112",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_113": {
+      "hash": "240106989512a3524958eaec2b1edb98eed4d7fa3f4f648817412c3734187d83",
+      "articleRef": "Recital 113",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_114": {
+      "hash": "bc0485a4636192c6995b65b43cf9b3382f53e8bdf249ee0458aaf7b91327a3c3",
+      "articleRef": "Recital 114",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_115": {
+      "hash": "8aabb952d5752f2812f7f1f69fe4b7c17102a76d3d513acf11dfaf0afddf9a11",
+      "articleRef": "Recital 115",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_116": {
+      "hash": "f5558f9fd737bc949b3531f9a8698b0cf728e3d0baf3872f625b4329fce00209",
+      "articleRef": "Recital 116",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_117": {
+      "hash": "07486ae198b3f3d03168542657a9b2e8a6aaf8dc8b951bd6ed2ea6b3ff74ce34",
+      "articleRef": "Recital 117",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_118": {
+      "hash": "8900abbe56410e0b7ba1fec42293066a7096190d2be9512eef8c7d2d32ec0233",
+      "articleRef": "Recital 118",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_119": {
+      "hash": "ef063c09e74ac89527fc8958da0ec9cf5dcb12316577c97f8aee6138e502d860",
+      "articleRef": "Recital 119",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_120": {
+      "hash": "b9bcf485402a5f2bf8a6fa156e0e721085954709ab9cd14279e8f11348e2e886",
+      "articleRef": "Recital 120",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_121": {
+      "hash": "5ae7f9cb05bfdd4445cee7ce669968734fe952e2f6066434ba80b5c9bf8f2670",
+      "articleRef": "Recital 121",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_122": {
+      "hash": "78cef45017e283ec7443ad3f189e785d73e3a60344c42c1072af36360f5296f9",
+      "articleRef": "Recital 122",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_123": {
+      "hash": "bb05f7323c9d2a7b3debe2fc756f43a274648c217f73b0fe9436b47bdc225eb3",
+      "articleRef": "Recital 123",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_124": {
+      "hash": "50c10458fd55947e55a966edc8465385a61ec83e1a97c02ec8e0dd50090a85d3",
+      "articleRef": "Recital 124",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_125": {
+      "hash": "fcf2874071404daaadff0e2c5c6643e88079bdc8613b2f49ace19b28589a4364",
+      "articleRef": "Recital 125",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_126": {
+      "hash": "0ae2d676cd23851e7826b7d9ec53c9f9b22cc00ea902a7118b42a14a6ac0ecdf",
+      "articleRef": "Recital 126",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_127": {
+      "hash": "a8c239c5482fa1160b4eb8e53e327349a3504e2c97dd1141bb7bc92228064774",
+      "articleRef": "Recital 127",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_128": {
+      "hash": "6e6b5e7ca32014a74884c700f0133dd459b8d3009f72158377706f34717d0f21",
+      "articleRef": "Recital 128",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_129": {
+      "hash": "8441df3154b889d291b7c285c0c84c1b2ff3fd8daabb3a745e2d89b45c9fda39",
+      "articleRef": "Recital 129",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_130": {
+      "hash": "4b80e5e57d8d5f8d550bcc7098caca376036fdeb13cb06ad415717ed91eda9bf",
+      "articleRef": "Recital 130",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_131": {
+      "hash": "dc7107d7e9d9204d04bea0a05512a573fe2067de7469e25337fb7cc7c2cf8eb5",
+      "articleRef": "Recital 131",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_132": {
+      "hash": "1dff2659d5ca82527aa2230248e1b16abbd71dfa2145892709586f5916b7f51b",
+      "articleRef": "Recital 132",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_133": {
+      "hash": "987f66d6c2e3c132f4c20a2378424735b4cc10353c1afa7e3df9f6f6cb2ec446",
+      "articleRef": "Recital 133",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_134": {
+      "hash": "ffdc1fefd0229e9499ff4c959dc34226df1d4d8d729b4321fe45c95a552a4a4f",
+      "articleRef": "Recital 134",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_135": {
+      "hash": "270256569e4826f3b61c011d7e26251af8f41a3c2e29e45d9580c98f622bd0d8",
+      "articleRef": "Recital 135",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_136": {
+      "hash": "43dfdf9bea900459cb3bc4e4ac8f45e50cb132507b1e565eaf628aca11e6e11d",
+      "articleRef": "Recital 136",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_137": {
+      "hash": "1616b5f23fdbd56c69f438a19182f20137a6c013ed66800f354fc2768050cbe7",
+      "articleRef": "Recital 137",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_138": {
+      "hash": "3fcc29557d1308482fc9fd313ee59ca97a6630b32054e8853f2ee4c32bcca80c",
+      "articleRef": "Recital 138",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_139": {
+      "hash": "bb23dafe29328396fc091d0637f899bc511712bbab7e0dc51409f0aba4aaba8e",
+      "articleRef": "Recital 139",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_140": {
+      "hash": "3c1d530969b474ce34bc4876cabc6f88a7097c1e90c928ff0a9e18dd2cb021ac",
+      "articleRef": "Recital 140",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_141": {
+      "hash": "12b7de86f46521e7e86bbca08d8156c249af9beeddb010e351c9d90e06d49112",
+      "articleRef": "Recital 141",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_142": {
+      "hash": "7c460bea86b9bd5f31dff19e70ab2b9f4d1a9f85e7b12069b4cdc3c9d21dd48d",
+      "articleRef": "Recital 142",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_143": {
+      "hash": "c4090f480384934beab1ebbbea8ebd83d90310caf4d2fa60a7b68b897afcf335",
+      "articleRef": "Recital 143",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_144": {
+      "hash": "42104f332536a9a0c9df7f18746a6a8a8e73c94e8e9ddb027b436f7e9cb882b6",
+      "articleRef": "Recital 144",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_145": {
+      "hash": "386e0e9b5db78869692bef3907042e6ec3d19a660adc0202264838c8d60839d2",
+      "articleRef": "Recital 145",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_146": {
+      "hash": "711fe073c5c14245843abf45d6154ddd7dc95f8e83ae0290d1b406692c24fd0e",
+      "articleRef": "Recital 146",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_147": {
+      "hash": "f73abcb940e3b17841ff29c70270b3643eed1830fb83a1b5486b225b73107c11",
+      "articleRef": "Recital 147",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_148": {
+      "hash": "9a2eb2227f63647ecb60aaa9cfc34bc12d6a9b8f0a648fba39037f599ccd1c8c",
+      "articleRef": "Recital 148",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_149": {
+      "hash": "847a03c88def59d441301a16587cbc4104d66704d390c5111097a4cef7ebc3c4",
+      "articleRef": "Recital 149",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_150": {
+      "hash": "5d253f01f2b4165253390b06c2b3c13b932994a5a5607483a86d04c52d304d98",
+      "articleRef": "Recital 150",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_151": {
+      "hash": "63f1937ed6310ace148fa3ee4f7860ebee6fc332692c8939f53d4c691769a6c3",
+      "articleRef": "Recital 151",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_152": {
+      "hash": "49b46ef2a41f1de654324d197c4840a9c16efe25a6077331c13ae0c90b576449",
+      "articleRef": "Recital 152",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_153": {
+      "hash": "62172535a02d191073d711576104f5c0d5107b146ba0f3879729e5effe43dbc4",
+      "articleRef": "Recital 153",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_154": {
+      "hash": "0115c5550704a545fd1a0add04301465479daf55bc05bd42c37a5dacf67a42c1",
+      "articleRef": "Recital 154",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_155": {
+      "hash": "57bd82fbda4c7d76b19e34efb4d3841b73f1f3a11c903f2eb859198a867ac141",
+      "articleRef": "Recital 155",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_156": {
+      "hash": "8b40caead60f204d34802f9be52c03c3dca5accb4803c82267d81fbb135afbb2",
+      "articleRef": "Recital 156",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_157": {
+      "hash": "933e071aedb069716b0f65cf12327ac7b773733023e068498158255c49889433",
+      "articleRef": "Recital 157",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_158": {
+      "hash": "30dabeb2cc19ce3b4a326493003c71666a920c3b0a44e5fad946ea728ff125df",
+      "articleRef": "Recital 158",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_159": {
+      "hash": "dd644f1a10a093e05ff18cc4d765fbfb7f3efe31982f9cb983a9efd0e0031949",
+      "articleRef": "Recital 159",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_160": {
+      "hash": "e98e4915525603786ea82a1279fedcdca71c1e71e9fc04096026b655905b0c9b",
+      "articleRef": "Recital 160",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_161": {
+      "hash": "d967016bdfe13dfcfa1ecfdd4ff14b8e8ae0d0170c01299a6b65e4b185abc4a5",
+      "articleRef": "Recital 161",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_162": {
+      "hash": "54635af3142f50ecdc6061d0387f9b301a5d390e072cc3b2036abb531de60114",
+      "articleRef": "Recital 162",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_163": {
+      "hash": "72a09ee55f483f6251bf1eb0b500c71c9136a7ac8f684f5a5e664d55a4424645",
+      "articleRef": "Recital 163",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_164": {
+      "hash": "b3ff2c2ad0f92b2e578311e15a592b2e50ccc812c8327f65012a2965db496676",
+      "articleRef": "Recital 164",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_165": {
+      "hash": "32a9a7680299ec16f1392cb5964a20e322da35344e858c472895d3dd9b90591f",
+      "articleRef": "Recital 165",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_166": {
+      "hash": "e642c0864f3a2979626060e5ad4b711917c9adf9c6b24ea042f62e964c8c3756",
+      "articleRef": "Recital 166",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_167": {
+      "hash": "23195b43e93a55d9c37101e97f29c36398f1428153a3af76e25286b14fdfe2e4",
+      "articleRef": "Recital 167",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_168": {
+      "hash": "af32b9ded576e46580af38d1883f9ff0fb059406cc8d8b63b6261f07265b50e7",
+      "articleRef": "Recital 168",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_169": {
+      "hash": "0f5490735d8bfab6b3a297cdea0c61447f2bbf0fdd4532e6be6769f6162d1b4b",
+      "articleRef": "Recital 169",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_170": {
+      "hash": "b668638ba864caaccd77076533f5e05761b15a6abeb6fc2702fcd4bba3870ecd",
+      "articleRef": "Recital 170",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_171": {
+      "hash": "4361847ba949ca1a31a8825eaeec68cefd275853239431c52dfd35ffe42fb400",
+      "articleRef": "Recital 171",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_172": {
+      "hash": "2fe965935bfa794507256badf69e38837cc116575c1630688f24ba441ac14094",
+      "articleRef": "Recital 172",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_173": {
+      "hash": "824608409b56a6d3d3c38f8a82b9950f42ab9f0fecf3ccb742916042e66d2daa",
+      "articleRef": "Recital 173",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_174": {
+      "hash": "9addcef161c855e5179e1246e39738d94e72d265339ef3d41b66cf5922dfbedf",
+      "articleRef": "Recital 174",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_175": {
+      "hash": "d79ca13eabb431e6d1dbef0f3e3d080ebe873ea70ac0140080167c93d118f00f",
+      "articleRef": "Recital 175",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_176": {
+      "hash": "faac66dc396bac273df691bd5c93219ec30326dc0cede5755bc7980ae3c42f7a",
+      "articleRef": "Recital 176",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_177": {
+      "hash": "ef795dd816013b1a0cb831aa9994b782a4be17d2e928e81b72f3a53512c34ea8",
+      "articleRef": "Recital 177",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_178": {
+      "hash": "e06fe638a3054ad17d16b747c41b23c66bdfbce79703d8402da711b09871426f",
+      "articleRef": "Recital 178",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_179": {
+      "hash": "fd8b134d7609b51d8b24c0e669b126e3162a9e92b6a184b22f52fcfccad4c2e5",
+      "articleRef": "Recital 179",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_recital_180": {
+      "hash": "dd21981232632e3fe5ee5459ec5b97817ae5e80131eec07867032fbc3416de71",
+      "articleRef": "Recital 180",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_preamble": {
+      "hash": "2afd55d4f140d3ac20345680dcd0f61cbdf44b7fffd7edc852f5e1facafe7556",
+      "articleRef": "Annex III",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_1": {
+      "hash": "c453ff5d19960829ea19b0348c18f4a0bcfcd138628dc9db2c24d9e6c2064b23",
+      "articleRef": "Annex III, 1",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_1a": {
+      "hash": "29c7f3d1dc571867decaf7daf46d5c259a176235c141cd8add70cc728ceb7f35",
+      "articleRef": "Annex III, 1(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_1b": {
+      "hash": "110fd18e0a0531cfe81b144e07fd789e898594241e040fde3baba0fa22a4bc11",
+      "articleRef": "Annex III, 1(b)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_1c": {
+      "hash": "3eba0904f215b0684ffdc77b7ab1ab0609db43823963ecb63e7ae06cf67d3774",
+      "articleRef": "Annex III, 1(c)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_2": {
+      "hash": "b9e32a3d42cfe7eaea1d437290ba57666ebddfbd75f4163733554092cfae19d8",
+      "articleRef": "Annex III, 2",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_3": {
+      "hash": "dff4e84691e362d1cc9a91b3e35110c68e1301c756f9989365722c59aff6d403",
+      "articleRef": "Annex III, 3",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_3a": {
+      "hash": "00d5e8d9a6679b9fd990cfe9b7442052f6cee8a7374a5af29b1922bda1d85ea2",
+      "articleRef": "Annex III, 3(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_3b": {
+      "hash": "49ea8fefd0656c139aa12b9941acd38c4e5f0477630f334a022534677621a48b",
+      "articleRef": "Annex III, 3(b)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_3c": {
+      "hash": "f5b1d414920282b668961a979ed68ddf58c86bc9e20c9c122dea305582df4179",
+      "articleRef": "Annex III, 3(c)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_3d": {
+      "hash": "f7f81b498e95e90dbce05beb413031e03d10689f8ca5b0adcccaa9b9a6762429",
+      "articleRef": "Annex III, 3(d)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_4": {
+      "hash": "43fdaf5832b83efe83f246d2a4dcf968c9667ace54fc3e133c6acf343ef9e129",
+      "articleRef": "Annex III, 4",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_4a": {
+      "hash": "8acde174eb31f57c084b7f26b6cb6ef3434ce6881a6a240da6f583e9c4f7e87d",
+      "articleRef": "Annex III, 4(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_4b": {
+      "hash": "15443674667556b3b4b9e39b902332d944eed2917a45ec1a814d75e7923bd5ec",
+      "articleRef": "Annex III, 4(b)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_5": {
+      "hash": "cdcf8ba4400915fc5d088b9231dfbf1d7a24540f6c74f557d7b2cc6cc7a0e91d",
+      "articleRef": "Annex III, 5",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_5a": {
+      "hash": "a7adb5ad7d2d9510d488ca1c14bfebce66ba1b5c55a9b466f73a400ff1191e65",
+      "articleRef": "Annex III, 5(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_5b": {
+      "hash": "6abf6a9240d4b1205a119982e4051c30355da6236f3c13bf600357b951a4f7e7",
+      "articleRef": "Annex III, 5(b)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_5c": {
+      "hash": "7c1369af6de269b0841ec457dc3bfbab1d7eb9c955de3aa7ee8946b2d6ca95e8",
+      "articleRef": "Annex III, 5(c)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_5d": {
+      "hash": "be8c1f4c05ed934b2deef98f1264e00232708e75c4f75e0a5ba2419bd4838811",
+      "articleRef": "Annex III, 5(d)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_6": {
+      "hash": "47929fa2cdf4fa99e64ed2039b627bb56d22f2040b616442b824abd9be5e565d",
+      "articleRef": "Annex III, 6",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_6a": {
+      "hash": "b0223b80d84afcda407dd4086ee22cb4ffb48626732f75e938f397ab50e0addd",
+      "articleRef": "Annex III, 6(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_6b": {
+      "hash": "e556674838e7f1e4d003ec85694351b5cc3457dc291cd104eaa98d5f0d13860e",
+      "articleRef": "Annex III, 6(b)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_6c": {
+      "hash": "5111a60aa9e530624b7faed9dd9893cc32e78b8bb89a9d1cf685acb681bcf9b6",
+      "articleRef": "Annex III, 6(c)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_6d": {
+      "hash": "97637bdf4b9bb3a1d31fa00657e50b44445d3f88c920a23423ee85efb6c0b1f3",
+      "articleRef": "Annex III, 6(d)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_6e": {
+      "hash": "e11a472b08218c823073152867682a007e9362e50b79e8e455cdb60ac873d24f",
+      "articleRef": "Annex III, 6(e)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_7": {
+      "hash": "06cb2f43ff0756c6d1cf5c48047c11fef7a4381bec822d774ad3ffbf20c59556",
+      "articleRef": "Annex III, 7",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_7a": {
+      "hash": "04d4a3c0f8c34e62a1f9c82f8361beeb26ccf82afa26bf2acf052095c993db2d",
+      "articleRef": "Annex III, 7(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_7b": {
+      "hash": "e6cda38e925ac46e1125ca69b52f1c957485914d1b64b91ff403a7d519ac357d",
+      "articleRef": "Annex III, 7(b)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_7c": {
+      "hash": "edfe2d7979aa13e6217247775c067c8c09365b1c84b97b37c9624d9e8ba0c6f0",
+      "articleRef": "Annex III, 7(c)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_7d": {
+      "hash": "d9a6394581dcf9417a921dc912f155203861a6f82207ad0d595c7c5960dd10e7",
+      "articleRef": "Annex III, 7(d)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_8": {
+      "hash": "1d534e08d468ae1573b66059078ce1afaadf4ac0d9b5c1746eabdf5e56a84e4f",
+      "articleRef": "Annex III, 8",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_8a": {
+      "hash": "f2665ea409fa12fa4266a4aaae04446284bcebcd30ac0110691a0b1b87cdf3b2",
+      "articleRef": "Annex III, 8(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_annex_iii_8b": {
+      "hash": "1579290e759851ccb6696de8d0144a723fb382a41cc1559c0e7aafeb5eca387d",
+      "articleRef": "Annex III, 8(b)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    },
+    "aia_art5_1a": {
+      "hash": "eb623cfe24e49d430dd3049338c1803a167870ec977479fc7bfbc19640f221a9",
+      "articleRef": "Article 5(1)(a)",
+      "authority": "TIER_1",
+      "authorityRank": 1
+    }
+  },
+  "manifestHash": "0ff747f65624ef24782579555f513db80aea5aeb460be2e2f467def844615e3f"
+}
